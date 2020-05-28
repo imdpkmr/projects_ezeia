@@ -1,0 +1,9157 @@
+cityCodeArr = [{
+    "city_id": "4059253",
+    "city": "Balrampur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4157275",
+    "city": "Kolkata",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4157275",
+    "city": "Kolkata",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059102",
+    "city": "Alwar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221439",
+    "city": "Habra",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059337",
+    "city": "Sambhal",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059341",
+    "city": "Sherkot",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059174",
+    "city": "Hosur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058956",
+    "city": "Amravati",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059005",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4388073",
+    "city": "Thiruvallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059014",
+    "city": "Pune",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "2001176",
+    "city": "Uttar Pradesh",
+    "state": "India"
+},
+{
+    "city_id": "4059261",
+    "city": "Bijnor",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401449",
+    "city": "Palladam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059339",
+    "city": "Shahjahanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059026",
+    "city": "Thane",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4400703",
+    "city": "Padappai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221356",
+    "city": "Bankra",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059232",
+    "city": "Villupuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394319",
+    "city": "Panipat Refinery Township",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058767",
+    "city": "Yamunanagar",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059280",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058749",
+    "city": "Hansi",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058841",
+    "city": "Mysuru",
+    "state": "Karnataka"
+},
+{
+    "city_id": "2001162",
+    "city": "Madhya Pradesh",
+    "state": "India"
+},
+{
+    "city_id": "2001177",
+    "city": "West Bengal",
+    "state": "India"
+},
+{
+    "city_id": "4058853",
+    "city": "Sira",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059317",
+    "city": "Modinagar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059318",
+    "city": "Moradabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059299",
+    "city": "Khurja",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058906",
+    "city": "Chhindwara",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4394297",
+    "city": "Ganaur",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059344",
+    "city": "Sitapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059326",
+    "city": "Noida",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058741",
+    "city": "Ambala",
+    "state": "Haryana"
+},
+{
+    "city_id": "5435709",
+    "city": "Shivrajpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401201",
+    "city": "Periyakulam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058939",
+    "city": "Sehore",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058762",
+    "city": "Rohtak",
+    "state": "Haryana"
+},
+{
+    "city_id": "4387779",
+    "city": "Faridabad",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059083",
+    "city": "Khanna",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059336",
+    "city": "Sahaswan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059093",
+    "city": "Patiala",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058965",
+    "city": "Bhiwandi",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4058916",
+    "city": "Indore",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397089",
+    "city": "Betma",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058759",
+    "city": "Panchkula",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059303",
+    "city": "Lakhimpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387789",
+    "city": "Gohana",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059314",
+    "city": "Meerut",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058994",
+    "city": "Manmad",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059079",
+    "city": "Hoshiarpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058910",
+    "city": "Dewas",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058897",
+    "city": "Balaghat",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4387731",
+    "city": "Charkhi Dadri",
+    "state": "Haryana"
+},
+{
+    "city_id": "5446795",
+    "city": "Mohanpur",
+    "state": "West Bengal"
+},
+
+{
+    "city_id": "4058933",
+    "city": "Pithampur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399583",
+    "city": "Hariana",
+    "state": "Punjab"
+},
+{
+    "city_id": "4394241",
+    "city": "Pehowa",
+    "state": "Haryana"
+},
+{
+    "city_id": "4388065",
+    "city": "Seohara",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400251",
+    "city": "Khairthal",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058934",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400203",
+    "city": "Shahpura Jaipur District",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058745",
+    "city": "Bhiwani",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058827",
+    "city": "Hassan",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387847",
+    "city": "Mandi Govindgarh",
+    "state": "Punjab"
+},
+{
+    "city_id": "5058958",
+    "city": "Badlapur",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4058748",
+    "city": "Gurgaon",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058856",
+    "city": "Tumakuru",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4388037",
+    "city": "Nandivaram-Guduvancheri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "2001170",
+    "city": "Punjab",
+    "state": "India"
+},
+{
+    "city_id": "4059085",
+    "city": "Ludhiana",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399567",
+    "city": "Badhni Kalan",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059080",
+    "city": "Jagraon",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401945",
+    "city": "Sulur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059099",
+    "city": "Sunam",
+    "state": "Punjab"
+},
+{
+    "city_id": "5414357",
+    "city": "Lanji",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059123",
+    "city": "Jaipur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059322",
+    "city": "Muzaffarnagar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059295",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059231",
+    "city": "Vellore",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059277",
+    "city": "Firozabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059091",
+    "city": "Nabha",
+    "state": "Punjab"
+},
+{
+    "city_id": "4221418",
+    "city": "Chakdah",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401921",
+    "city": "Mathigiri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5427901",
+    "city": "Khanauri",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387887",
+    "city": "New Town",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395717",
+    "city": "Kushalanagara",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4058743",
+    "city": "Ambala Sadar",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059245",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058930",
+    "city": "Neemuch",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4395527",
+    "city": "Narasimharajapura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387695",
+    "city": "Arsikere",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394333",
+    "city": "Uklanamandi",
+    "state": "Haryana"
+},
+{
+    "city_id": "5322397",
+    "city": "Dhar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4387745",
+    "city": "Dahanu",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4403251",
+    "city": "Thakurdwara",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394215",
+    "city": "Loharu",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058947",
+    "city": "Ujjain",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059465",
+    "city": "Bilaspur",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058753",
+    "city": "Kaithal",
+    "state": "Haryana"
+},
+{
+    "city_id": "2001145",
+    "city": "Andhra Pradesh",
+    "state": "India"
+},
+{
+    "city_id": "4058839",
+    "city": "Mandya",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4405397",
+    "city": "Amlajora",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059086",
+    "city": "Malerkotla",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395205",
+    "city": "Malavalli",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059142",
+    "city": "Sikar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059297",
+    "city": "Kasganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403149",
+    "city": "Rudauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059243",
+    "city": "Agra",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403703",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400365",
+    "city": "Lalsot",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "2007599",
+    "city": "Telangana",
+    "state": "India"
+},
+{
+    "city_id": "4402893",
+    "city": "Gulaothi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387981",
+    "city": "Ullal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059226",
+    "city": "Ooty",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058750",
+    "city": "Hisar",
+    "state": "Haryana"
+},
+{
+    "city_id": "4398457",
+    "city": "Sanaswadi",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059264",
+    "city": "Bulandshahr",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399477",
+    "city": "Phillaur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387715",
+    "city": "Barwani",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059136",
+    "city": "Pali",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395429",
+    "city": "Doddaballapura Apparel Park",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395519",
+    "city": "Gudibanda",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059146",
+    "city": "Udaipur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399725",
+    "city": "Kharar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399659",
+    "city": "Amloh",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059020",
+    "city": "Satara",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059273",
+    "city": "Faizabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059330",
+    "city": "Pilkhuwa",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403541",
+    "city": "Rustamnagar Sahaspur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5447403",
+    "city": "Sidlaghatta",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4296457",
+    "city": "Kurukshetra",
+    "state": "Haryana"
+},
+{
+    "city_id": "4387697",
+    "city": "Ayodhya",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394405",
+    "city": "Hathin",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059335",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394303",
+    "city": "Barwala",
+    "state": "Haryana"
+},
+{
+    "city_id": "4402685",
+    "city": "Bilari",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397265",
+    "city": "Rau",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403203",
+    "city": "Purquazi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401551",
+    "city": "Mettunasuvanpalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399485",
+    "city": "Morinda",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400065",
+    "city": "Dhariawad",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058840",
+    "city": "Mangaluru",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400629",
+    "city": "Kodumudi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059207",
+    "city": "Salem",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395231",
+    "city": "Maddur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059287",
+    "city": "Hasanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402539",
+    "city": "Garhmukteshwar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401301",
+    "city": "Avanashi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058764",
+    "city": "Sonipat",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059095",
+    "city": "Rajpura",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400555",
+    "city": "Kinathukadavu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059227",
+    "city": "Udumalaipettai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399469",
+    "city": "Lehragaga",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387797",
+    "city": "Hunsur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5316223",
+    "city": "Ramanagaram",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403197",
+    "city": "Powayan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394275",
+    "city": "Taraori",
+    "state": "Haryana"
+},
+{
+    "city_id": "4387799",
+    "city": "Jalor",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058921",
+    "city": "Khandwa",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403689",
+    "city": "Runkata",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059248",
+    "city": "Auraiya",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059244",
+    "city": "Agra Cantonment",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221389",
+    "city": "Hugli-Chinsurah",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059077",
+    "city": "Gobindgarh",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059192",
+    "city": "Mettur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387853",
+    "city": "Maraimalainagar",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387877",
+    "city": "Nanjangud",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402907",
+    "city": "Noorpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403249",
+    "city": "Tanda Rampur District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058851",
+    "city": "Shivamogga",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059199",
+    "city": "Panruti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402651",
+    "city": "Bindki",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5460830",
+    "city": "Mandawar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399699",
+    "city": "Lalru",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059251",
+    "city": "Bahraich",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399493",
+    "city": "Kurali",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401891",
+    "city": "Polur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399547",
+    "city": "Raikot",
+    "state": "Punjab"
+},
+{
+    "city_id": "4403001",
+    "city": "Daurala",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403335",
+    "city": "Mohammadi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059219",
+    "city": "Tiruchengode",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403461",
+    "city": "Ajhuwa",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058920",
+    "city": "Jaora",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401477",
+    "city": "Pallikonda",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059310",
+    "city": "Mathura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387763",
+    "city": "Didwana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059166",
+    "city": "Cuddalore",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059070",
+    "city": "Barnala",
+    "state": "Punjab"
+},
+{
+    "city_id": "2001173",
+    "city": "Tamil Nadu",
+    "state": "India"
+},
+{
+    "city_id": "4394277",
+    "city": "Cheeka",
+    "state": "Haryana"
+},
+{
+    "city_id": "4394391",
+    "city": "Kundli",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400985",
+    "city": "Mecheri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402149",
+    "city": "Kangayampalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395399",
+    "city": "Hoskote Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5415235",
+    "city": "Fatehpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394361",
+    "city": "Nissing",
+    "state": "Haryana"
+},
+{
+    "city_id": "4399461",
+    "city": "Ahmedgarh",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395641",
+    "city": "Kunda",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400695",
+    "city": "Nambiyur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221360",
+    "city": "Bardhaman",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405321",
+    "city": "Kotbar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400385",
+    "city": "Bhiwadi",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395713",
+    "city": "Channarayapatna",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059255",
+    "city": "Baraut",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059183",
+    "city": "Komarapalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059150",
+    "city": "Ambattur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059125",
+    "city": "Jhunjhunun",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401615",
+    "city": "Pallipalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387773",
+    "city": "Durgapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5325257",
+    "city": "Chincholi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4388019",
+    "city": "Hiriyur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399571",
+    "city": "Banga",
+    "state": "Punjab"
+},
+{
+    "city_id": "4403367",
+    "city": "Ujhari",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395283",
+    "city": "Gauribidanur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059222",
+    "city": "Tirupathur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400323",
+    "city": "Danta",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058855",
+    "city": "Tiptur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059101",
+    "city": "Ajmer",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4387939",
+    "city": "Ranipettai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059169",
+    "city": "Dharmapuri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401555",
+    "city": "Kadayampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403473",
+    "city": "Malihabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059171",
+    "city": "Erode",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059157",
+    "city": "Avadi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221396",
+    "city": "Howrah",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059094",
+    "city": "Phagwara",
+    "state": "Punjab"
+},
+{
+    "city_id": "4403003",
+    "city": "Haldaur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399533",
+    "city": "Garhshankar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399463",
+    "city": "Khamanon",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401425",
+    "city": "Perumanallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059223",
+    "city": "Tiruppur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059110",
+    "city": "Bhilwara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058754",
+    "city": "Karnal",
+    "state": "Haryana"
+},
+{
+    "city_id": "4394365",
+    "city": "Sampla",
+    "state": "Haryana"
+},
+{
+    "city_id": "4402765",
+    "city": "Joya",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399491",
+    "city": "Anandpur Sahib",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399613",
+    "city": "Mullanpur Dakha",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399791",
+    "city": "Sumerpur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405065",
+    "city": "Balichak",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059145",
+    "city": "Tonk",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058899",
+    "city": "Betul",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399507",
+    "city": "Nawanshahr",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401669",
+    "city": "Kalavai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403847",
+    "city": "Lal Gopalganj Nindaura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400645",
+    "city": "Perundurai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059202",
+    "city": "Pollachi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395189",
+    "city": "Sulya",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059224",
+    "city": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059095",
+    "city": "Rajpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5421115",
+    "city": "Goredi Chancha",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059285",
+    "city": "Hapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399529",
+    "city": "Dirba",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399989",
+    "city": "Losal",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4388063",
+    "city": "Sardhana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402663",
+    "city": "Aminagar Sarai",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394197",
+    "city": "Kanina",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059097",
+    "city": "Sangrur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402959",
+    "city": "Musafirkhana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058761",
+    "city": "Rewari",
+    "state": "Haryana"
+},
+{
+    "city_id": "4395627",
+    "city": "Krishnarajanagara",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400737",
+    "city": "Unjalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221421",
+    "city": "Kalyani",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400631",
+    "city": "Ayyalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395701",
+    "city": "Bhatkal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4405191",
+    "city": "Digha Purba Medinipur District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402617",
+    "city": "Bharwari",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387921",
+    "city": "Puttur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401469",
+    "city": "Sriperumbudur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059114",
+    "city": "Chomun",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058758",
+    "city": "Palwal",
+    "state": "Haryana"
+},
+{
+    "city_id": "4394285",
+    "city": "Bawal",
+    "state": "Haryana"
+},
+{
+    "city_id": "4397207",
+    "city": "Depalpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059143",
+    "city": "Sujangarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400519",
+    "city": "Periya Negamam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399495",
+    "city": "Kartarpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "5326803",
+    "city": "Banda",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221370",
+    "city": "Bolpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5316495",
+    "city": "Bangur Nagar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221395",
+    "city": "Bally",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403397",
+    "city": "Kithaur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221383",
+    "city": "Arambagh",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4387943",
+    "city": "Rupnagar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395613",
+    "city": "Sakleshpur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401401",
+    "city": "Appakudal",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395293",
+    "city": "Karkal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399587",
+    "city": "Doraha",
+    "state": "Punjab"
+},
+{
+    "city_id": "4221476",
+    "city": "Rajpur Sonarpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402631",
+    "city": "Chhutmalpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394283",
+    "city": "Ateli",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059335",
+    "city": "Saha",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400549",
+    "city": "Chinnampalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403739",
+    "city": "Bhabnan Bazar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400937",
+    "city": "Omalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394229",
+    "city": "Haileymandi",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059179",
+    "city": "Karur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058936",
+    "city": "Sagar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5410255",
+    "city": "Ranapur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4394191",
+    "city": "Ladwa",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401893",
+    "city": "Kilpennathur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402909",
+    "city": "Miranpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058928",
+    "city": "Nagda",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400255",
+    "city": "Tijara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059112",
+    "city": "Bundi",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4396987",
+    "city": "Badnagar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059300",
+    "city": "Kiratpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058752",
+    "city": "Jind",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059195",
+    "city": "Namakkal",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400131",
+    "city": "Bilara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400849",
+    "city": "Pallapatti Karur District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059165",
+    "city": "Coonoor",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403683",
+    "city": "Pakbara",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394317",
+    "city": "Industrial Estate Barwala",
+    "state": "Haryana"
+},
+{
+    "city_id": "4058815",
+    "city": "Chikkamagaluru",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4397165",
+    "city": "Khilchipur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058744",
+    "city": "Bahadurgarh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059177",
+    "city": "Kancheepuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401121",
+    "city": "Kadambathur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387947",
+    "city": "Samana",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399519",
+    "city": "Nurmahal",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059286",
+    "city": "Hardoi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400247",
+    "city": "Jahazpur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059170",
+    "city": "Dindigul",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221431",
+    "city": "Barasat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402579",
+    "city": "Bachhrawan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5387561",
+    "city": "Belur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059113",
+    "city": "Chittorgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4394281",
+    "city": "Gharaunda",
+    "state": "Haryana"
+},
+{
+    "city_id": "4399517",
+    "city": "Samrala",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387761",
+    "city": "Dhuri",
+    "state": "Punjab"
+},
+{
+    "city_id": "4397037",
+    "city": "Rajgarh Dhar District",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058813",
+    "city": "Channapatna",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5420073",
+    "city": "Gangwa",
+    "state": "Haryana"
+},
+{
+    "city_id": "5327366",
+    "city": "Mandawa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4394267",
+    "city": "Farrukhnagar",
+    "state": "Haryana"
+},
+{
+    "city_id": "4395303",
+    "city": "Dargajogihalli",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4058987",
+    "city": "Khopoli",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4400565",
+    "city": "Harur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387709",
+    "city": "Barabanki",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4398809",
+    "city": "Ahmadpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5340618",
+    "city": "Daulatpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4058834",
+    "city": "Kolar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395607",
+    "city": "Nadsal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402759",
+    "city": "Jansath",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059266",
+    "city": "Chandpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403651",
+    "city": "Tronica City",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "2001171",
+    "city": "Rajasthan",
+    "state": "India"
+},
+{
+    "city_id": "4059212",
+    "city": "Tenkasi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400221",
+    "city": "Gulabpura",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401451",
+    "city": "Irugur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401125",
+    "city": "Kakkalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400499",
+    "city": "Kurudampalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400701",
+    "city": "Maduranthakam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5460688",
+    "city": "Malpura",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059108",
+    "city": "Beawar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058756",
+    "city": "Narnaul",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401493",
+    "city": "Ammoor",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400217",
+    "city": "Beejoliya Kalan",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5444951",
+    "city": "Rail",
+    "state": "Punjab"
+},
+{
+    "city_id": "4405017",
+    "city": "Jaynagar Mazilpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401103",
+    "city": "Kethi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058857",
+    "city": "Udupi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403223",
+    "city": "Nagram",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399611",
+    "city": "Dharamkot",
+    "state": "Punjab"
+},
+{
+    "city_id": "4405401",
+    "city": "Dogachhia Barddhaman District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5455580",
+    "city": "Vittal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059350",
+    "city": "Unnao",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394211",
+    "city": "Jhajjar",
+    "state": "Haryana"
+},
+{
+    "city_id": "2001163",
+    "city": "Maharashtra",
+    "state": "India"
+},
+{
+    "city_id": "4401997",
+    "city": "Vandavasi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394273",
+    "city": "Safidon",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403491",
+    "city": "Khekada",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5348373",
+    "city": "Salar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5328031",
+    "city": "Kalka",
+    "state": "Haryana"
+},
+{
+    "city_id": "4399515",
+    "city": "Urmar Tanda",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387757",
+    "city": "Dhampur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059282",
+    "city": "Gola Gokarannath",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394233",
+    "city": "Ismailabad",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405925",
+    "city": "Subarnapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5342596",
+    "city": "Partapur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4394387",
+    "city": "Hodal",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403467",
+    "city": "Gajraula",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395195",
+    "city": "Krishnarajpet",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387769",
+    "city": "Dungarpur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221424",
+    "city": "Ranaghat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4058859",
+    "city": "Yelahanka",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4058836",
+    "city": "Koppa",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059279",
+    "city": "Gangoh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402819",
+    "city": "Harraiya",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400741",
+    "city": "Vellottamparappu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403393",
+    "city": "Amethi Sultanpur District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221435",
+    "city": "Bidhannagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395549",
+    "city": "Beltangadi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403321",
+    "city": "Sikandra Rao",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399775",
+    "city": "Zirakpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4296460",
+    "city": "Mohali",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058651",
+    "city": "Chandigarh",
+    "state": "Chandigarh"
+},
+{
+    "city_id": "2001159",
+    "city": "Karnataka",
+    "state": "India"
+},
+{
+    "city_id": "4059168",
+    "city": "Dharapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395637",
+    "city": "Madhugiri",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399675",
+    "city": "Rurki Kasba",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400725",
+    "city": "Acharapakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5440765",
+    "city": "Perambakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059289",
+    "city": "Jahangirabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059138",
+    "city": "Rajsamand",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401701",
+    "city": "Periyanaickenpalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400469",
+    "city": "Chettipalayam Coimbatore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "2001155",
+    "city": "Haryana",
+    "state": "India"
+},
+{
+    "city_id": "4221459",
+    "city": "Medinipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399539",
+    "city": "Gardhiwala",
+    "state": "Punjab"
+},
+{
+    "city_id": "4394259",
+    "city": "Tosham",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059313",
+    "city": "Mawana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394337",
+    "city": "Bhakali",
+    "state": "Haryana"
+},
+{
+    "city_id": "5427919",
+    "city": "Khandauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394293",
+    "city": "Chhachhrauli",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403107",
+    "city": "Pukhrayan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397115",
+    "city": "Nasrullaganj",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059153",
+    "city": "Arani",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394261",
+    "city": "Indri",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405149",
+    "city": "Falta Industrial Growth Centre",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401775",
+    "city": "Madukkarai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059331",
+    "city": "Rae Bareli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399523",
+    "city": "Patran",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400627",
+    "city": "Chithode",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058590",
+    "city": "Kalan",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387707",
+    "city": "Bandikui",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403839",
+    "city": "Basantpur Saitli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401077",
+    "city": "Sankari",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058757",
+    "city": "Narwana",
+    "state": "Haryana"
+},
+{
+    "city_id": "2001168",
+    "city": "Odisha",
+    "state": "India"
+},
+{
+    "city_id": "4401303",
+    "city": "Palangarai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059089",
+    "city": "Moga",
+    "state": "Punjab"
+},
+{
+    "city_id": "5313805",
+    "city": "Byatarayanapura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402531",
+    "city": "Baghpat",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5408863",
+    "city": "Babugarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5430183",
+    "city": "Kunigal Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4397111",
+    "city": "Nalkheda",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401347",
+    "city": "Thottiyam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399919",
+    "city": "Jalore Industrial Area",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059182",
+    "city": "Krishnagiri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400151",
+    "city": "Singhana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4394251",
+    "city": "Shahbad",
+    "state": "Haryana"
+},
+{
+    "city_id": "4399569",
+    "city": "Balachaur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4397227",
+    "city": "Mangalya",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400315",
+    "city": "Kekri",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399813",
+    "city": "Pushkar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5386413",
+    "city": "Kandi",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395361",
+    "city": "Vasantha Narasapura Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402559",
+    "city": "Pratapgarh City",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059269",
+    "city": "Deoband",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399623",
+    "city": "Begowal",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058914",
+    "city": "Harda",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4405875",
+    "city": "Komarhat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059082",
+    "city": "Kapurthala",
+    "state": "Punjab"
+},
+{
+    "city_id": "4394397",
+    "city": "Dharuhera",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400575",
+    "city": "Kariamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403187",
+    "city": "Zaidpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387703",
+    "city": "Baduria",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059296",
+    "city": "Kanpur Cantonment",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403287",
+    "city": "Nanpara",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059109",
+    "city": "Bharatpur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400361",
+    "city": "RIICO Industrial Area Kant Kalwar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395505",
+    "city": "Aurad",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5460109",
+    "city": "Vrindavan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394299",
+    "city": "Nuh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059298",
+    "city": "Khatauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401745",
+    "city": "Vellakoil",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400155",
+    "city": "Viratnagar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400103",
+    "city": "Nathdwara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403325",
+    "city": "Singahi Bhiraura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399785",
+    "city": "Dera Bassi",
+    "state": "Punjab"
+},
+{
+    "city_id": "4394301",
+    "city": "Assandh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400745",
+    "city": "Elathur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5344940",
+    "city": "Baksar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059294",
+    "city": "Kannauj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059211",
+    "city": "Tambaram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403205",
+    "city": "Qasimpur Power House Colony",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400309",
+    "city": "Kishangarh Ajmer District",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059133",
+    "city": "Nagaur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5327832",
+    "city": "Sultanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058766",
+    "city": "Tohana",
+    "state": "Haryana"
+},
+{
+    "city_id": "4394209",
+    "city": "Pinjore",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059275",
+    "city": "Farrukhabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059321",
+    "city": "Muradnagar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400393",
+    "city": "Pilani Town",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5428181",
+    "city": "Maholi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402791",
+    "city": "Bangarmau",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059131",
+    "city": "Ladnu",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395215",
+    "city": "Bangarapet",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401041",
+    "city": "Maramangalathupatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394199",
+    "city": "Maham",
+    "state": "Haryana"
+},
+{
+    "city_id": "4221432",
+    "city": "Barrackpore",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059283",
+    "city": "Gonda",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405807",
+    "city": "Haringhata Farm",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405365",
+    "city": "Balarampota",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394249",
+    "city": "Rani",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399505",
+    "city": "Mahilpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058924",
+    "city": "Mandsaur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4387963",
+    "city": "Sirhind Fatehgarh Sahib",
+    "state": "Punjab"
+},
+{
+    "city_id": "5448705",
+    "city": "Sukdal",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5415287",
+    "city": "Chiknayakanhalli",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4058854",
+    "city": "Sirsi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059259",
+    "city": "Bela Pratapgarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221446",
+    "city": "New Barrackpore",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394231",
+    "city": "Pataudi",
+    "state": "Haryana"
+},
+{
+    "city_id": "5448475",
+    "city": "Talwara",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400477",
+    "city": "Thenkarai Coimbatore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5461140",
+    "city": "Dasna",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5343011",
+    "city": "Kotwali",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400319",
+    "city": "Pindwara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059161",
+    "city": "Chengalpattu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405167",
+    "city": "Jagadanandapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402731",
+    "city": "Kamalganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5460676",
+    "city": "Jobner",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397731",
+    "city": "Pithampur Industrial Hub",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5406591",
+    "city": "Bhagabatipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403497",
+    "city": "Mahmudabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059340",
+    "city": "Shamli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059324",
+    "city": "Najibabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059151",
+    "city": "Ambur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399797",
+    "city": "Pratapgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397445",
+    "city": "Waraseoni",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058808",
+    "city": "Bidar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401463",
+    "city": "Gingee",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399549",
+    "city": "Bhawanigarh",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402603",
+    "city": "Bidhuna",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394263",
+    "city": "Kalanaur",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400091",
+    "city": "Jaitaran",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059130",
+    "city": "Kuchaman City",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403619",
+    "city": "Bakshi Ka Talab",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059265",
+    "city": "Chandausi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394227",
+    "city": "Kharkhoda",
+    "state": "Haryana"
+},
+{
+    "city_id": "4399599",
+    "city": "Dhanaula",
+    "state": "Punjab"
+},
+{
+    "city_id": "4221392",
+    "city": "Serampore",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397789",
+    "city": "Aamby Valley",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4399521",
+    "city": "Payal",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401853",
+    "city": "Kambainallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059197",
+    "city": "Palani",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400257",
+    "city": "Todaraisingh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058942",
+    "city": "Shajapur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401609",
+    "city": "Velur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5309150",
+    "city": "Dadri",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400483",
+    "city": "Vellalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394287",
+    "city": "Bawani Khera",
+    "state": "Haryana"
+},
+{
+    "city_id": "4402905",
+    "city": "Parikshitgarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387881",
+    "city": "Nehtaur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400119",
+    "city": "Mundwa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5327666",
+    "city": "Bank",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4394403",
+    "city": "Ratia",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400487",
+    "city": "Sirumugai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5301684",
+    "city": "Santipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403099",
+    "city": "Pihani",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397019",
+    "city": "Hat Piplia",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400653",
+    "city": "Chengappalli",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405353",
+    "city": "Amarshi Kasba",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395533",
+    "city": "Moodabidri",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401437",
+    "city": "Muthanampalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405165",
+    "city": "Singur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395495",
+    "city": "Tarikere",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400351",
+    "city": "Behror",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399677",
+    "city": "Moonak",
+    "state": "Punjab"
+},
+{
+    "city_id": "5327185",
+    "city": "Alot",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058922",
+    "city": "Khargone",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4387941",
+    "city": "Rasipuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399535",
+    "city": "Ghagga",
+    "state": "Punjab"
+},
+{
+    "city_id": "5440639",
+    "city": "Kaman",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400229",
+    "city": "Shahpura Bhilwara District",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403053",
+    "city": "Niwari",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221445",
+    "city": "Naihati",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4221464",
+    "city": "Kharagpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059229",
+    "city": "Vaniyanbadi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397327",
+    "city": "Barwaha",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403527",
+    "city": "Gagalhedi Must",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401763",
+    "city": "Kangeyam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403615",
+    "city": "Achalganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394289",
+    "city": "Beri",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401209",
+    "city": "Hanumanthampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400337",
+    "city": "Merta City",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405801",
+    "city": "Chikrand",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395551",
+    "city": "Kuvettu",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5444049",
+    "city": "RIICO Industrial Area Palsana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403529",
+    "city": "Tundla Kham",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401637",
+    "city": "SIPCOT Industrial Park Sriprumbudur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395663",
+    "city": "Mudigere",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4405511",
+    "city": "Bargachhia Haora District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4387829",
+    "city": "Kosi Kalan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058812",
+    "city": "Chamrajnagar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5426859",
+    "city": "Karoran",
+    "state": "Punjab"
+},
+{
+    "city_id": "4398199",
+    "city": "Dadar",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4387931",
+    "city": "Ramanagara",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4221442",
+    "city": "Kanchrapara",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403533",
+    "city": "Risia Bazar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394207",
+    "city": "Mahendragarh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403597",
+    "city": "Barabanki Industrial Area",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401743",
+    "city": "Muthur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401991",
+    "city": "Ilampillai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403029",
+    "city": "Faridnagar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059127",
+    "city": "Karauli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402687",
+    "city": "Bisauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403087",
+    "city": "Fatehpur Bara Banki District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5460647",
+    "city": "Chaksu",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221449",
+    "city": "Panihati",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4387875",
+    "city": "Nangal",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058925",
+    "city": "Mhow",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401799",
+    "city": "Gummidipoondi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5436359",
+    "city": "Kheri",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4387937",
+    "city": "Rampura Phul",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395201",
+    "city": "Bannur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394213",
+    "city": "Uchana",
+    "state": "Haryana"
+},
+{
+    "city_id": "5338938",
+    "city": "Nagar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4394399",
+    "city": "Samalkha",
+    "state": "Haryana"
+},
+{
+    "city_id": "4397155",
+    "city": "Chaurai Khas",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401939",
+    "city": "Chennimalai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402671",
+    "city": "Bhojpur Dharampur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399555",
+    "city": "Shahkot",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399511",
+    "city": "Tapa",
+    "state": "Punjab"
+},
+{
+    "city_id": "4221433",
+    "city": "Basirhat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059267",
+    "city": "Chhibramau",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403095",
+    "city": "Baberu",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402611",
+    "city": "Bikapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400677",
+    "city": "Neikkarapatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394419",
+    "city": "Un",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401105",
+    "city": "Gudalur The Nilgiris District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059217",
+    "city": "Tindivanam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397529",
+    "city": "Katangi Balaghat District",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4387817",
+    "city": "Khaga",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058940",
+    "city": "Seoni",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4405845",
+    "city": "Barkalikapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5460660",
+    "city": "Dudu",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399617",
+    "city": "Bhadaur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4394239",
+    "city": "Naraingarh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403503",
+    "city": "Afzalgarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059191",
+    "city": "Mettupalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395331",
+    "city": "Elwala",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399893",
+    "city": "Bigod",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400373",
+    "city": "RIICO Industrial Area Neemrana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401575",
+    "city": "Narasingapuram Vellore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059271",
+    "city": "Etah",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058816",
+    "city": "Chintamani",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400089",
+    "city": "Sri Madhopur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399709",
+    "city": "Sarai Khas",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387971",
+    "city": "Theni Allinagaram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400153",
+    "city": "Surajgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5339950",
+    "city": "Narauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405363",
+    "city": "Argari",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400489",
+    "city": "Achipatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395319",
+    "city": "Pavagada",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399489",
+    "city": "Adampur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4221366",
+    "city": "Katwa",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394381",
+    "city": "Chandi Mandir",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405383",
+    "city": "Badkulla",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400073",
+    "city": "Sojat Road",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403555",
+    "city": "Pilkhana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399487",
+    "city": "Goraya",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395309",
+    "city": "Bethamangala",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403151",
+    "city": "Salon",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395209",
+    "city": "Srirangapatna",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5301040",
+    "city": "Allipura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402699",
+    "city": "Bilhaur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402635",
+    "city": "Budhana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399475",
+    "city": "Nakodar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059323",
+    "city": "Nagina",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401087",
+    "city": "Vazhapadi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4388009",
+    "city": "Biswan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403849",
+    "city": "Sikandarabad Industrial Area",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401379",
+    "city": "SIPCOT Cheyyar",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403869",
+    "city": "Manjhanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399573",
+    "city": "Banur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402831",
+    "city": "Iglas",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403737",
+    "city": "Barwara Mazra",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405733",
+    "city": "Kolaghat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399663",
+    "city": "Machhiwara",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400831",
+    "city": "Uthangarai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058810",
+    "city": "Bommanahalli",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400381",
+    "city": "Fatehnagar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395681",
+    "city": "Bantval",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402547",
+    "city": "Khairabad Sitapur District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405171",
+    "city": "Karimpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4058858",
+    "city": "Yadgir",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4396993",
+    "city": "Mahidpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4387783",
+    "city": "Gangapur City",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401549",
+    "city": "Sholingur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403137",
+    "city": "Gursahaiganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403111",
+    "city": "Mallawan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059288",
+    "city": "Hathras",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059135",
+    "city": "Nimbahera",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401989",
+    "city": "Karuppur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402589",
+    "city": "Gunnaur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397177",
+    "city": "Timarni",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399795",
+    "city": "Sirohi",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4387721",
+    "city": "Bhinmal",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221422",
+    "city": "Krishnanagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405911",
+    "city": "Sahebpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4221461",
+    "city": "Contai",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059028",
+    "city": "Ulhasnagar",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4387775",
+    "city": "Edappadi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399603",
+    "city": "Budhlada",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395513",
+    "city": "Hanur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5453799",
+    "city": "Zamin Uthukuli",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387879",
+    "city": "Nasirabad",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403519",
+    "city": "Indian Tehephone Industry Mankapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402947",
+    "city": "Naugawan Sadat",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397117",
+    "city": "Satwas",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397197",
+    "city": "Piploda",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4402577",
+    "city": "Akbarpur Near Kanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5423059",
+    "city": "Ikauna",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395265",
+    "city": "Virajpete",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395517",
+    "city": "Chelur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403789",
+    "city": "Atrauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395257",
+    "city": "Krishnaraja Sagara",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4398663",
+    "city": "Waluj MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4058903",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4221471",
+    "city": "Budge-Budge",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5421833",
+    "city": "Harohalli Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400585",
+    "city": "Sithayankottai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403407",
+    "city": "Itaunja",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400287",
+    "city": "Gothan",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221462",
+    "city": "Egra",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059173",
+    "city": "Gudiyatham",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401693",
+    "city": "Jolarpet",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403167",
+    "city": "Rudayan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400713",
+    "city": "Sathyamangala",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395305",
+    "city": "Tirthahalli",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4221466",
+    "city": "Tamluk",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4058835",
+    "city": "Kollegal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394255",
+    "city": "Taoru",
+    "state": "Haryana"
+},
+{
+    "city_id": "4398473",
+    "city": "Ashta",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4394219",
+    "city": "Raipur Rani",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059152",
+    "city": "Arakkonam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400939",
+    "city": "Tharamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4388039",
+    "city": "Nelliyalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221429",
+    "city": "Bangaon",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397099",
+    "city": "Susner",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059159",
+    "city": "Bhavani",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400071",
+    "city": "Sadri",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059116",
+    "city": "Dausa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402999",
+    "city": "Dankaur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059169",
+    "city": "Dharmapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5443613",
+    "city": "Ranjangaon MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4397251",
+    "city": "Damua",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4402021",
+    "city": "Kalambur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405081",
+    "city": "Pandua",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403017",
+    "city": "Sahpau",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400113",
+    "city": "Merta Road",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397081",
+    "city": "Shujalpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4394375",
+    "city": "Majra Jhajjar District",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059172",
+    "city": "Gobichettipalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4396973",
+    "city": "Manawar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400603",
+    "city": "Oddanchatram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405743",
+    "city": "Rajbalhat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395507",
+    "city": "Bhalki",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059176",
+    "city": "Cumbum",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403535",
+    "city": "Kursi Road Industrial Area",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5328319",
+    "city": "Shahabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405937",
+    "city": "Nagdaha",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5345368",
+    "city": "Behrampore",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4396519",
+    "city": "Kovalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059235",
+    "city": "Agar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5438441",
+    "city": "Oragadam Industrial Area",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5303596",
+    "city": "Taki",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395641",
+    "city": "Kundapura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4221456",
+    "city": "Jhargram",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400719",
+    "city": "Thiruporur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399847",
+    "city": "Sagwara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5442297",
+    "city": "Rabupura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059137",
+    "city": "Rajgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221438",
+    "city": "Gobardanga",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401633",
+    "city": "Aravakurichi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401715",
+    "city": "Sevur Vellore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401357",
+    "city": "SIPCOT Perundurai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397339",
+    "city": "Chhapiheda",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397103",
+    "city": "Bhikangaon",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399661",
+    "city": "Bassi Pathana",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402661",
+    "city": "Behat",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4398825",
+    "city": "Pen",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "5335131",
+    "city": "Vadamadurai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400649",
+    "city": "Vijayapuri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387747",
+    "city": "Dankuni",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5306450",
+    "city": "Batika",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405481",
+    "city": "Tentulkuli",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405063",
+    "city": "Bahirgram",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394247",
+    "city": "Radaur",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401583",
+    "city": "Sathiyavijayanagaram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400379",
+    "city": "Sheoganj",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399985",
+    "city": "Goyli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221463",
+    "city": "Haldia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395647",
+    "city": "Varamballi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4398433",
+    "city": "Neral",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059134",
+    "city": "Nawalgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4396971",
+    "city": "Jhabua",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399889",
+    "city": "Hamirgarh Growth Centre RIICO",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221385",
+    "city": "Bansberia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397205",
+    "city": "Unhel",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059154",
+    "city": "Arcot",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400787",
+    "city": "Tirukalukundram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400069",
+    "city": "Falna",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400923",
+    "city": "Mohanur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5461193",
+    "city": "Mubarakpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399575",
+    "city": "Bareta",
+    "state": "Punjab"
+},
+{
+    "city_id": "5414793",
+    "city": "Jali",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059141",
+    "city": "Sawai Madhopur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400471",
+    "city": "Ettimadai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395359",
+    "city": "Humnabad Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059122",
+    "city": "Hindaun",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400503",
+    "city": "Sarcarsamakulam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5314118",
+    "city": "Siddapur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400389",
+    "city": "Niwai",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395583",
+    "city": "Kariyangala",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5449301",
+    "city": "Mallar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400019",
+    "city": "Kherwara Chhaoni",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4398407",
+    "city": "Wai",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4058571",
+    "city": "Raya",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5418247",
+    "city": "Dobaspet Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394349",
+    "city": "Sunari Kalan",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400547",
+    "city": "Melpattampakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5303591",
+    "city": "Sidhauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4398655",
+    "city": "Khandala Satara",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4403447",
+    "city": "Achhnera",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059258",
+    "city": "Behta Hazipur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394201",
+    "city": "Ladrawan",
+    "state": "Haryana"
+},
+{
+    "city_id": "4395431",
+    "city": "Alevoor",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059230",
+    "city": "Veerappanchatram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394217",
+    "city": "Narnaund",
+    "state": "Haryana"
+},
+{
+    "city_id": "4395659",
+    "city": "Sorab",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400669",
+    "city": "Anthiyur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405359",
+    "city": "Amlagora",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395529",
+    "city": "Sringeri",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5452527",
+    "city": "Baral",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395437",
+    "city": "Mulki",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403161",
+    "city": "Sadabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403713",
+    "city": "Raniyan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4406105",
+    "city": "Kokapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403383",
+    "city": "Auras",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400095",
+    "city": "Sojat",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395597",
+    "city": "Honavar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4405455",
+    "city": "Garshyamnagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5332461",
+    "city": "Lalganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394407",
+    "city": "Julana",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059104",
+    "city": "Banswara",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399949",
+    "city": "RIICO Industrial Area Gudli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5343959",
+    "city": "Sahaspur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5339740",
+    "city": "Colonelganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403291",
+    "city": "Nawabganj Unnao District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059175",
+    "city": "Kadayanallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395543",
+    "city": "Arkula",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403045",
+    "city": "Pahasu",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4398167",
+    "city": "Karjat Ahmadnagar District",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "5337686",
+    "city": "Pooluvapatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395217",
+    "city": "Agumbe",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5413633",
+    "city": "Boh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403265",
+    "city": "Sewalkhas",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5336104",
+    "city": "Madambakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401545",
+    "city": "Kaveripattinam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5413067",
+    "city": "Binola Industrial Area",
+    "state": "Haryana"
+},
+{
+    "city_id": "4402945",
+    "city": "Naraura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4398045",
+    "city": "Pimpalgaon Baswant",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059204",
+    "city": "Puliyankudi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059210",
+    "city": "Srivilliputhur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397191",
+    "city": "Petlawad",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400331",
+    "city": "Baggar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405207",
+    "city": "Jirat",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4396981",
+    "city": "Khacharod",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4395651",
+    "city": "Talipady",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5333011",
+    "city": "Badod",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400473",
+    "city": "Malumichampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403431",
+    "city": "Siana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400055",
+    "city": "Bhinder",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221384",
+    "city": "Baidyabati",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394253",
+    "city": "Siwani",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401781",
+    "city": "Natrampalli",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403125",
+    "city": "Misrikh Cum Neemsar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401399",
+    "city": "Othakalmandapam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400327",
+    "city": "Borawar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5328012",
+    "city": "Bada",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403519",
+    "city": "Mankapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403489",
+    "city": "Kheragarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5059013",
+    "city": "Chinchwad",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4399859",
+    "city": "Nadbai",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401133",
+    "city": "Ponneri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400249",
+    "city": "Sarwar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402129",
+    "city": "TVS Plant Hosur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399951",
+    "city": "Khatu",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397813",
+    "city": "Boisar",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "5325948",
+    "city": "Rura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395705",
+    "city": "Sedam",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401193",
+    "city": "Kodivalasa",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403549",
+    "city": "Kora Jahanabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058848",
+    "city": "Robertsonpet",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5421599",
+    "city": "Swaroopganj",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5445933",
+    "city": "Sarsawan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401335",
+    "city": "Musiri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387869",
+    "city": "Mulbagal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400709",
+    "city": "Kanjikoil",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387693",
+    "city": "Abu Road",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399809",
+    "city": "Kotputli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5423071",
+    "city": "Debipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399865",
+    "city": "RIICO Industrial Area Chopanki",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402693",
+    "city": "Bilsi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059208",
+    "city": "Sankarankoil",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5346035",
+    "city": "Maheshtala",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5327648",
+    "city": "Jahangirpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395685",
+    "city": "Narikombu",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5345644",
+    "city": "North Dum Dum",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402153",
+    "city": "Mevalurkuppam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399873",
+    "city": "Pipar City",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395523",
+    "city": "Birur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395373",
+    "city": "Manjanady",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387953",
+    "city": "Sendhwa",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403079",
+    "city": "Ailum",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221455",
+    "city": "Ghatal",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400021",
+    "city": "Salumbar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401519",
+    "city": "Muruganpalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5314861",
+    "city": "Kadur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395619",
+    "city": "Madikeri",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395585",
+    "city": "Navoor",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394245",
+    "city": "Pundri",
+    "state": "Haryana"
+},
+{
+    "city_id": "5334887",
+    "city": "Adyar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5337064",
+    "city": "Alapakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401703",
+    "city": "Gudalur Coimbatore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5331390",
+    "city": "Hassanpur",
+    "state": "Haryana"
+},
+{
+    "city_id": "4221470",
+    "city": "Baruipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397697",
+    "city": "Garra",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4395525",
+    "city": "Kudremukh",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400579",
+    "city": "Palakkodu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5460706",
+    "city": "Phulera",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402855",
+    "city": "Islamnagar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402585",
+    "city": "Bahjoi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405071",
+    "city": "Bhangar Raghunathpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397217",
+    "city": "Gogapur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4402645",
+    "city": "Chharra Rafatpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221443",
+    "city": "Khardaha",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4387753",
+    "city": "Dehu Cantt",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4405173",
+    "city": "Deulia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395193",
+    "city": "Gonikoppal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400093",
+    "city": "Marwar Junction",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221411",
+    "city": "Beldanga",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5340971",
+    "city": "Kathaura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405339",
+    "city": "Gangnapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402591",
+    "city": "Bajna",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405445",
+    "city": "Salap",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400613",
+    "city": "Kodaikanal",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405521",
+    "city": "Dhulasimla",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5305180",
+    "city": "Shahpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402723",
+    "city": "Dibiyapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394203",
+    "city": "Nilokheri",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403313",
+    "city": "Saunkh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5448897",
+    "city": "Sehara",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402669",
+    "city": "Bachhraon",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401723",
+    "city": "Annur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5303825",
+    "city": "Sarangpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5461406",
+    "city": "Veppampattu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405699",
+    "city": "Sonatikiri",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405643",
+    "city": "Purbba Narayanpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4387749",
+    "city": "Deeg",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4221393",
+    "city": "Tarakeswar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397183",
+    "city": "Pachore",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399799",
+    "city": "Mount Abu",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395289",
+    "city": "Gubbi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5387617",
+    "city": "Debai",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394223",
+    "city": "Mayyer",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400981",
+    "city": "Mallasamudram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400557",
+    "city": "Kottur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059067",
+    "city": "Pudu",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4397035",
+    "city": "Mandleshwar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5461232",
+    "city": "Nandgaon",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4395509",
+    "city": "Chitgoppa",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402859",
+    "city": "Jarwal",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400207",
+    "city": "Bhusawar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400265",
+    "city": "Baskhoh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395435",
+    "city": "Bagepalli",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402819",
+    "city": "Harrai",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4221365",
+    "city": "Kalna",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405543",
+    "city": "Koyra",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400919",
+    "city": "Usilampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221386",
+    "city": "Bhadreswar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401089",
+    "city": "Yercaud",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5302414",
+    "city": "Narayangarh",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400833",
+    "city": "Kulithalai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400681",
+    "city": "Sircar Periapalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5328377",
+    "city": "Mohan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401885",
+    "city": "Kavindapadi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400081",
+    "city": "Neem Ka Thana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402835",
+    "city": "Bithoor",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401949",
+    "city": "Mahindra World City",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395645",
+    "city": "Heroor",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395295",
+    "city": "Adityapatna",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395307",
+    "city": "Turuvekere",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5415477",
+    "city": "Makkinampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403281",
+    "city": "Thana Bhawan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4406053",
+    "city": "Bangalpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394279",
+    "city": "Ferozepur Jhirka",
+    "state": "Haryana"
+},
+{
+    "city_id": "4388025",
+    "city": "Kambam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397163",
+    "city": "Khategaon",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403457",
+    "city": "Antu",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400245",
+    "city": "Vijainagar Ajmer District",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402633",
+    "city": "Charthaval",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4396977",
+    "city": "Dhamnod Dhar District",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4405341",
+    "city": "Dakshin Rajyadharpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5314014",
+    "city": "Magadi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394195",
+    "city": "Sankhol",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405473",
+    "city": "Raghunathpur Hugli District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5407037",
+    "city": "Karunguzhi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400087",
+    "city": "Reengus",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5391975",
+    "city": "Khair",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405641",
+    "city": "Bankul",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402773",
+    "city": "Jalesar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402963",
+    "city": "Jalalabad Bijnor District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401081",
+    "city": "Ayothiapattinam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400713",
+    "city": "Sathyamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5338542",
+    "city": "Kollur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400199",
+    "city": "Kishangarh Renwal",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401727",
+    "city": "Kilvaithinankuppam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395297",
+    "city": "Hosanagara",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5341876",
+    "city": "Kanor",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395629",
+    "city": "Periyapatna",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5337227",
+    "city": "Thandla",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4402769",
+    "city": "Jewar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402639",
+    "city": "Bilaspur Gautam Buddha Nagar District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402935",
+    "city": "Nawabganj Gonda District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395191",
+    "city": "Arkalgud",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401845",
+    "city": "Walajapet",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403371",
+    "city": "Unchahar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221368",
+    "city": "Memari",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400387",
+    "city": "Sumerpur Industrial Area",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400045",
+    "city": "Tapookra",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402757",
+    "city": "Jhinjhana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403623",
+    "city": "Beelna",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405255",
+    "city": "Ilambazar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401467",
+    "city": "Walajabad",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397699",
+    "city": "Keolari",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5421743",
+    "city": "Haqiqatpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394265",
+    "city": "Kalayat",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401619",
+    "city": "Thuthipattu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058751",
+    "city": "Jagadhri",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401119",
+    "city": "Madaharpakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400551",
+    "city": "Odaiyakulam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397287",
+    "city": "New Harsud",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4394307",
+    "city": "Barhi Industrial Area",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059293",
+    "city": "Kairana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403423",
+    "city": "Shikarpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401529",
+    "city": "Kaniyur Coimbatore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395317",
+    "city": "Srinivaspur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387909",
+    "city": "Phulia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403507",
+    "city": "Anupshahr",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395537",
+    "city": "Uppinangady",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399833",
+    "city": "Chirawa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397643",
+    "city": "Barghat",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059205",
+    "city": "Rajapalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401455",
+    "city": "Madathukulam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5459008",
+    "city": "Balajinagar",
+    "state": "Pune"
+},
+{
+    "city_id": "4405621",
+    "city": "Buita",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400595",
+    "city": "Batlagundu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403097",
+    "city": "Tirwaganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403557",
+    "city": "Shamsabad Agra District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5436781",
+    "city": "Nanjaiuthukuli Industrial Estate",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401471",
+    "city": "Pudupattinam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405811",
+    "city": "Kanganbaria",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5341911",
+    "city": "Jafarpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405549",
+    "city": "Jujarsaha",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403023",
+    "city": "Fatehpur Chaurasi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401531",
+    "city": "Karumathampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402667",
+    "city": "Dhanaura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402581",
+    "city": "Bighapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5412995",
+    "city": "Kherli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403369",
+    "city": "Umri Kalan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400727",
+    "city": "Bhavanisagar",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405267",
+    "city": "Minakhan",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395625",
+    "city": "Pandavapura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395389",
+    "city": "Jog Falls",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402983",
+    "city": "Haidergarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401309",
+    "city": "Sivagiri Tirunelveli District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399605",
+    "city": "Cheema",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059160",
+    "city": "Bodinayakanur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400873",
+    "city": "Paramathi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397005",
+    "city": "Sanawad",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401509",
+    "city": "Chengam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403769",
+    "city": "Maina Maujpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395589",
+    "city": "Moodabettu",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4221440",
+    "city": "Halisahar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402707",
+    "city": "Karnawal",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5335842",
+    "city": "Kasipalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395415",
+    "city": "Hirehally Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387979",
+    "city": "Tiruttani",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397537",
+    "city": "Tirodi",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400597",
+    "city": "Nilakkottai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403511",
+    "city": "Koeripur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401027",
+    "city": "Konganapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5328174",
+    "city": "Nawa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401579",
+    "city": "Kannamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400075",
+    "city": "Takhatgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403715",
+    "city": "Rasulabad Kanpur Dehat District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058905",
+    "city": "Chhata",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403711",
+    "city": "Ramdaspur Urf Nagal",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5421753",
+    "city": "Islampur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402789",
+    "city": "Baldeo",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400107",
+    "city": "Mukandgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401065",
+    "city": "Adikaratti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221394",
+    "city": "Uttarpara Kotrung",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405073",
+    "city": "Chandrakona",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402937",
+    "city": "Maurawan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395621",
+    "city": "Somvarpet",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403065",
+    "city": "Kundarki",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5461208",
+    "city": "Amta",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401865",
+    "city": "Sellappampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5334675",
+    "city": "Govardhan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399837",
+    "city": "Banera",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397275",
+    "city": "Jamai",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397063",
+    "city": "Badnawar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4395623",
+    "city": "Nagamangala",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402895",
+    "city": "Garhi Pukhta",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403475",
+    "city": "Khargupur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5342080",
+    "city": "Purwa",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221444",
+    "city": "Madhyamgram",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405231",
+    "city": "Tehatta",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400583",
+    "city": "Chinnalapatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059220",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405777",
+    "city": "Maslandapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059302",
+    "city": "Laharpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402697",
+    "city": "Bilgram",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5460608",
+    "city": "Manglam City",
+    "state": "Jaipur"
+},
+{
+    "city_id": "4400553",
+    "city": "Anaimalai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397701",
+    "city": "Kirnapur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5447249",
+    "city": "Patala",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394389",
+    "city": "Kundli Industrial Area",
+    "state": "Haryana"
+},
+{
+    "city_id": "4400633",
+    "city": "Eriodu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4221423",
+    "city": "Nabadwip",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402629",
+    "city": "Chilkana Sultanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402587",
+    "city": "Babrala",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401523",
+    "city": "Kottakuppam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403243",
+    "city": "Sasni",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397021",
+    "city": "Ichhawar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400485",
+    "city": "Karamadai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5335743",
+    "city": "Chinniampalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5445657",
+    "city": "Sankrail",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400097",
+    "city": "Amet",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405711",
+    "city": "Masat Hugli District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397093",
+    "city": "Sonkatch",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059252",
+    "city": "Ballia",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405709",
+    "city": "Jagatnagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402795",
+    "city": "Fariha",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403873",
+    "city": "Mahrajganj Mahrajganj District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395347",
+    "city": "Amble Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4058623",
+    "city": "Chapra",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405423",
+    "city": "Shimulpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395291",
+    "city": "Honnali",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400099",
+    "city": "Deogarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400717",
+    "city": "Singaperumalkoil",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394395",
+    "city": "Jakhalmandi",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405973",
+    "city": "Dhanyakuria",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397027",
+    "city": "Maksi",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059198",
+    "city": "Pallavaram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402961",
+    "city": "Sahanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401207",
+    "city": "Chinnamanur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5460046",
+    "city": "Mira",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5334490",
+    "city": "Lachhmangarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401645",
+    "city": "Nemili",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5416473",
+    "city": "Kapasan",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402879",
+    "city": "Gosainganj Lucknow District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397311",
+    "city": "Athner",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403025",
+    "city": "Dhaurahara",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5302717",
+    "city": "Mahwa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5305017",
+    "city": "Boda",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400735",
+    "city": "Sivagiri Erode District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405069",
+    "city": "Beliatore",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402733",
+    "city": "Kanth Shahjahanpur District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399867",
+    "city": "RIICO Industrial Area Kharani",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403567",
+    "city": "Gosainganj Faizabad District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403997",
+    "city": "Chamba",
+    "state": "Uttaranchal"
+},
+{
+    "city_id": "5335898",
+    "city": "Sholur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401533",
+    "city": "Mopperipalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405587",
+    "city": "Bagula",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5385485",
+    "city": "Barsana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401747",
+    "city": "Kaniyur Tiruppur District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059124",
+    "city": "Jais",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400223",
+    "city": "Begun",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401109",
+    "city": "Kotagiri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4406055",
+    "city": "Ajodhyanagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402747",
+    "city": "Korwa",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5414461",
+    "city": "Kodalia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405705",
+    "city": "Nabagram Colony",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4221434",
+    "city": "Bhatpara",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400705",
+    "city": "Periyakodiveri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401917",
+    "city": "Yelagiri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403021",
+    "city": "Ghatampur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397329",
+    "city": "Pipalrawan",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4402719",
+    "city": "Kiraoli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395499",
+    "city": "Homnabad",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4397013",
+    "city": "Bhonrasa",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401565",
+    "city": "Veerakkalpudur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403227",
+    "city": "Nanauta",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400829",
+    "city": "Bargur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401797",
+    "city": "B Mallapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405949",
+    "city": "Dakshin Raypur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405879",
+    "city": "Chandpur North Twenty Four Parganas District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405425",
+    "city": "Nebadhai Duttapukur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4058747",
+    "city": "Fatehabad",
+    "state": "Haryana"
+},
+{
+    "city_id": "5460634",
+    "city": "Bagru",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402673",
+    "city": "Bhawan Bahadur Nagar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401773",
+    "city": "Vengathur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403327",
+    "city": "Sirathu",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5327942",
+    "city": "Deoli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5448445",
+    "city": "Sanwer",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5329392",
+    "city": "Basanti",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399553",
+    "city": "Sanaur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400183",
+    "city": "Ahore",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401713",
+    "city": "Velayudampalayam Karur District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058825",
+    "city": "Kalaburagi",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5307570",
+    "city": "Barda",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401515",
+    "city": "Tiruvethipuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5455376",
+    "city": "Hastinapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5305081",
+    "city": "Kalpi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5392657",
+    "city": "Bishnupur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405867",
+    "city": "Chakapara",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394335",
+    "city": "Barara",
+    "state": "Haryana"
+},
+{
+    "city_id": "4402607",
+    "city": "Bhinga",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400693",
+    "city": "Kuhalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402761",
+    "city": "Jhalu",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059343",
+    "city": "Sikandrabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221417",
+    "city": "Birnagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400109",
+    "city": "Udaipurwati",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405593",
+    "city": "Dighirpar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400369",
+    "city": "RIICO Industrial Area Khushkhera",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405495",
+    "city": "Shyampur Haora District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400507",
+    "city": "Alanthurai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401861",
+    "city": "Baluchetty Chatram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402797",
+    "city": "Chhaprauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400083",
+    "city": "Ajeetgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402857",
+    "city": "Kadaura",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221387",
+    "city": "Champdani",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403581",
+    "city": "Gabhana",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5461113",
+    "city": "Athani",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397001",
+    "city": "Pandhurna",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403199",
+    "city": "Rasulabad Unnao District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400573",
+    "city": "Chinnakalayamputhur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400979",
+    "city": "Ellandaikuttai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395351",
+    "city": "Somanahalli Industrial Area",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399823",
+    "city": "Khetri",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400311",
+    "city": "Rajgarh Alwar District",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059034",
+    "city": "Washi",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "5417029",
+    "city": "Dera Bassi Industrial Area",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402881",
+    "city": "Ganj Muradabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5425571",
+    "city": "Kaladwas Industrial Area",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402109",
+    "city": "Pallapalayam Coimbatore District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403351",
+    "city": "Sisauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405349",
+    "city": "Patulia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5461307",
+    "city": "Kelwa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403561",
+    "city": "Bahsuma",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395603",
+    "city": "Shahabad ACC",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395301",
+    "city": "Siralkoppa",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400227",
+    "city": "Sumerganj Mandi",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402787",
+    "city": "Chaumuhan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401835",
+    "city": "Sholavandan",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395545",
+    "city": "Sajipanadu",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395649",
+    "city": "Badagaulipady",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399801",
+    "city": "Ranthambore",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400001",
+    "city": "Industrial Area Kaladera",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4396963",
+    "city": "Amla",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058508",
+    "city": "Bhim",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400731",
+    "city": "Punjaipuliampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401687",
+    "city": "Attayampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401937",
+    "city": "Vembadithalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4388035",
+    "city": "Melvisharam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403827",
+    "city": "Banthla",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4396997",
+    "city": "Multai",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5445699",
+    "city": "Bhasa",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394313",
+    "city": "Rai Industrial Area",
+    "state": "Haryana"
+},
+{
+    "city_id": "4388041",
+    "city": "Neripperichal",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395635",
+    "city": "Huliyar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4387963",
+    "city": "Fatehgarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405731",
+    "city": "Kakdihi",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059348",
+    "city": "Tundla",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402561",
+    "city": "Katra Medniganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059126",
+    "city": "Jodhpur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405029",
+    "city": "Ramjibanpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399687",
+    "city": "Bhankarpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401817",
+    "city": "Kanakammachathram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5369031",
+    "city": "Farah",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400855",
+    "city": "Punjai Thottakurichi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403225",
+    "city": "Nakur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401475",
+    "city": "Semmipalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402161",
+    "city": "Boothipuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058817",
+    "city": "Chitradurga",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400243",
+    "city": "Asind",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403445",
+    "city": "Awagarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395197",
+    "city": "HD Kote",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395439",
+    "city": "Hole Narsipur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5341929",
+    "city": "Kailashpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405147",
+    "city": "Bishnupur Industrial Growth Centre",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405829",
+    "city": "Chandapur Champagachhi",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4397267",
+    "city": "Narsinghgarh",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400215",
+    "city": "Bari Sadri",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5460804",
+    "city": "Bhondsi",
+    "state": "Haryana"
+},
+{
+    "city_id": "4403755",
+    "city": "Hathgram",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397201",
+    "city": "Malhargarh",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400869",
+    "city": "Senthamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059132",
+    "city": "Makrana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397325",
+    "city": "Dongar Parasia",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5453283",
+    "city": "Dharampuri",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4405039",
+    "city": "Darappur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405451",
+    "city": "Uluberia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395233",
+    "city": "Kunigal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4221390",
+    "city": "Konnagar",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400335",
+    "city": "Tarana",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399939",
+    "city": "Nagaur Industrial Area",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400675",
+    "city": "Keeranur Dindigul District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397343",
+    "city": "Palsud",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4395271",
+    "city": "Gurmatkal",
+    "state": "Karnataka"
+},
+{
+    "city_id": "5421993",
+    "city": "Hatod",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403035",
+    "city": "Kauria Ganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405557",
+    "city": "Batul",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401759",
+    "city": "Mulanur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400031",
+    "city": "Sapotra",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405319",
+    "city": "Khidirpur Murshidabad District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400971",
+    "city": "Pillanallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405163",
+    "city": "Barjora",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401313",
+    "city": "Melagaram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405357",
+    "city": "Bandipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4388057",
+    "city": "Pernampattu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400623",
+    "city": "Arachalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401761",
+    "city": "Rudravathi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403011",
+    "city": "Parsadepur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5453929",
+    "city": "Dhakauli",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401331",
+    "city": "Manapparai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400667",
+    "city": "Nasiyanur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400199",
+    "city": "Renwal",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397277",
+    "city": "Sinhasa",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397187",
+    "city": "Pandhana",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397193",
+    "city": "Piplya Mandi",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5445221",
+    "city": "Shamgarh",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400111",
+    "city": "Kolvi Mandi Rajendrapur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058910",
+    "city": "Dewa",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5417821",
+    "city": "Harindanga",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394329",
+    "city": "Ram Garh",
+    "state": "Haryana"
+},
+{
+    "city_id": "4402965",
+    "city": "Tatarpur Lallu",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5427469",
+    "city": "Gawan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400871",
+    "city": "Pandamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4406057",
+    "city": "Patihal",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402987",
+    "city": "Gausganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397159",
+    "city": "Kasrawad",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403487",
+    "city": "Marehra",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221447",
+    "city": "North Barrackpore",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5345645",
+    "city": "South Dum Dum",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5386411",
+    "city": "Goregaon",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "5328363",
+    "city": "Bali",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5448667",
+    "city": "Sudarshanpura RIICO",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402771",
+    "city": "Jatari",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395269",
+    "city": "Chitapur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402545",
+    "city": "Jalalabad Muzaffarnagar District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5460929",
+    "city": "Uthiramerur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401895",
+    "city": "Vettavalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401765",
+    "city": "Ariyur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401805",
+    "city": "Damalerimuthur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400121",
+    "city": "Parbatsar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405223",
+    "city": "Basudebpur Purba Medinipur District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4394193",
+    "city": "Buria",
+    "state": "Haryana"
+},
+{
+    "city_id": "5306321",
+    "city": "Fatepur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5328557",
+    "city": "Chaulia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399785",
+    "city": "Bassi",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405159",
+    "city": "Bagnan",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405573",
+    "city": "Kanaipur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403679",
+    "city": "Maigal Ganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5345304",
+    "city": "Tal",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400027",
+    "city": "Mavli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397059",
+    "city": "Bagli",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5338853",
+    "city": "Raila",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400063",
+    "city": "Chhoti Sadri",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5392367",
+    "city": "Pallipattu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387883",
+    "city": "Nellikuppam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399855",
+    "city": "Lakheri",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401353",
+    "city": "Courtalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400679",
+    "city": "Sivagiripatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400625",
+    "city": "Avalpoondurai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400529",
+    "city": "Papparapatti Dharmapuri District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394271",
+    "city": "Sadaura",
+    "state": "Haryana"
+},
+{
+    "city_id": "4394205",
+    "city": "Uncha Siwana",
+    "state": "Haryana"
+},
+{
+    "city_id": "4397127",
+    "city": "Sausar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400115",
+    "city": "Basni Belima",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403395",
+    "city": "Warhapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395653",
+    "city": "Kurgunta",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4401345",
+    "city": "Kattuputhur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5402423",
+    "city": "Maheshwar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399839",
+    "city": "Khandela",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400687",
+    "city": "Ammapettai Erode District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394257",
+    "city": "Asankhurd",
+    "state": "Haryana"
+},
+{
+    "city_id": "4401311",
+    "city": "Ilanji",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5441543",
+    "city": "Thondamuthur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401993",
+    "city": "Naduvaneri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399563",
+    "city": "Bhadson",
+    "state": "Punjab"
+},
+{
+    "city_id": "5453799",
+    "city": "Uthukuli",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403569",
+    "city": "Kishunpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400041",
+    "city": "Kasba Bonli",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4395203",
+    "city": "T Narsipura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4394393",
+    "city": "Bir Ghaggar",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405177",
+    "city": "Parota",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5342184",
+    "city": "Sambhar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402985",
+    "city": "Dariyabad",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394347",
+    "city": "Pinagwan",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405241",
+    "city": "Ashadtalya",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401457",
+    "city": "Sankaramanallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401729",
+    "city": "Senur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5436675",
+    "city": "Nandgaon Pode",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4401629",
+    "city": "Pudupalayam Agraharam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397657",
+    "city": "Dungariya Chhapara",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4221472",
+    "city": "Diamond Harbour",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4058948",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400523",
+    "city": "Suleeswaranpatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403677",
+    "city": "Derapur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399825",
+    "city": "Govindgarh Alwar District",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397809",
+    "city": "Wai MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4403135",
+    "city": "Kachhauna Patseni",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400877",
+    "city": "Palamedu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395249",
+    "city": "Koratagere",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4221391",
+    "city": "Rishra",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5312988",
+    "city": "Mandu",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400567",
+    "city": "Pappireddipatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5432561",
+    "city": "Mulur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4397319",
+    "city": "Suswasara",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403007",
+    "city": "Hargaon",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058901",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059070",
+    "city": "Bar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400013",
+    "city": "Mehandipur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4403773",
+    "city": "Nihal Garh Chak Jangla",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399945",
+    "city": "Niwai Industrial Area",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402995",
+    "city": "Harduaganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402653",
+    "city": "Choubepur Kalan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402853",
+    "city": "Jhinjhak",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5310361",
+    "city": "Nasibpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4402133",
+    "city": "Thamaraikulam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399991",
+    "city": "Manoharpur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402711",
+    "city": "Kakod",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403109",
+    "city": "Maudaha",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4394321",
+    "city": "Baghola",
+    "state": "Haryana"
+},
+{
+    "city_id": "4397285",
+    "city": "Chhipabad",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401047",
+    "city": "Jalakandapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405325",
+    "city": "Labhpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400117",
+    "city": "Kuchera",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4396999",
+    "city": "Pachmarhi",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5340595",
+    "city": "Bayana",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401837",
+    "city": "Vadipatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5449069",
+    "city": "Mangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405413",
+    "city": "Uttar Pirpur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401621",
+    "city": "Kaveripakkam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5460024",
+    "city": "Gokul",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4405869",
+    "city": "Chak Kanthalia",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5436677",
+    "city": "Nandgaon Tarf Birwadi",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4401657",
+    "city": "Padikkasu Vaithanpatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059228",
+    "city": "Valparai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401973",
+    "city": "Mamallapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405389",
+    "city": "Garbeta",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4406013",
+    "city": "Bishnupur South Twenty Four Parganas District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4406005",
+    "city": "Khanpur Hugli District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401947",
+    "city": "Edakalinadu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405231",
+    "city": "Tehatta Nadia District",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4400295",
+    "city": "Kushalgarh",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4402573",
+    "city": "Radhakund",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4406047",
+    "city": "Samudragarh",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5325834",
+    "city": "Kanad",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399479",
+    "city": "Patti",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401431",
+    "city": "Kannivadi Tiruppur District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400209",
+    "city": "Weir",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397631",
+    "city": "Bharveli",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397233",
+    "city": "Akodia",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5460637",
+    "city": "RIICO Industrial Area Bassi",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400007",
+    "city": "Rani Sagar RIICO",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4397071",
+    "city": "Jiran",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "5339727",
+    "city": "Beniganj",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4395639",
+    "city": "Koteshwar",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4402537",
+    "city": "Fatehpur Sikri",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5314265",
+    "city": "Bangalore North Taluka",
+    "state": "Bengaluru"
+},
+{
+    "city_id": "4387989",
+    "city": "Velampalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403189",
+    "city": "Amraudha",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401697",
+    "city": "Andipalayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401161",
+    "city": "Devadanapatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4395605",
+    "city": "Shravanabelgola",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4403499",
+    "city": "Saurikh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400391",
+    "city": "BITS Pilani Campus",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5307801",
+    "city": "Nanpur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4402015",
+    "city": "Vadapudupatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400591",
+    "city": "Natham",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402131",
+    "city": "TNPL Pugalur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4402593",
+    "city": "Beswan",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4401107",
+    "city": "O Valley",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397113",
+    "city": "Namli",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403363",
+    "city": "Tindwari",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4399805",
+    "city": "Rikhabdeo",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4400039",
+    "city": "Reodar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "5419389",
+    "city": "Kondur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401435",
+    "city": "Iduvai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405233",
+    "city": "Paschim Bainan",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403377",
+    "city": "Vijaigarh",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4400049",
+    "city": "Pirawa",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401577",
+    "city": "Devikapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397993",
+    "city": "Shendra MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4221358",
+    "city": "Sonamukhi",
+    "state": "West Bengal"
+},
+{
+    "city_id": "5432697",
+    "city": "Mallur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401793",
+    "city": "Chinnathadagam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399525",
+    "city": "Nehon",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059078",
+    "city": "Gurdaspur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401655",
+    "city": "Mamsapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397171",
+    "city": "Talen",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4403165",
+    "city": "Sahawar",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397829",
+    "city": "Talegaon MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059187",
+    "city": "Madavaram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4394237",
+    "city": "Nagal Chaudhry",
+    "state": "Haryana"
+},
+{
+    "city_id": "4405729",
+    "city": "Naupala",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4395343",
+    "city": "Kudur",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4395587",
+    "city": "Manipura",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4397133",
+    "city": "Jobat",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4221362",
+    "city": "Durgapur MC",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405099",
+    "city": "Durllabhganj",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401935",
+    "city": "Hubbathala",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5445169",
+    "city": "Puliyur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5334956",
+    "city": "Saligram",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4400599",
+    "city": "Pattiveeranpatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4403119",
+    "city": "Agarwal Mandi",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397137",
+    "city": "Kannod",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397729",
+    "city": "Omkareshwar",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397167",
+    "city": "Khirkiya",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4059256",
+    "city": "Bareilly",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402069",
+    "city": "K Madapur Tiruppur District",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400563",
+    "city": "Hale Dharmapuri",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401883",
+    "city": "Vellode",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397283",
+    "city": "Anjad",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4400333",
+    "city": "Bidasar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4401403",
+    "city": "Koonavelampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401887",
+    "city": "Thimmaiyanpettai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4397303",
+    "city": "Ghoda Dongri Ryt",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4401979",
+    "city": "Padirikuppam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5423279",
+    "city": "Industrial Area Bidiyad",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4405607",
+    "city": "Nahazari",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4398341",
+    "city": "Nimbhore Budruk",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4397341",
+    "city": "Kothri",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4397919",
+    "city": "Shinde MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4405977",
+    "city": "Chak Baria",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4405055",
+    "city": "Guskara",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059072",
+    "city": "Bathinda",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059075",
+    "city": "Firozpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059069",
+    "city": "Amritsar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399619",
+    "city": "Bhagha Purana",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059092",
+    "city": "Pathankot",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387867",
+    "city": "Muktsar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059071",
+    "city": "Batala",
+    "state": "Punjab"
+},
+{
+    "city_id": "4394409",
+    "city": "Kalanwali",
+    "state": "Haryana"
+},
+{
+    "city_id": "4399747",
+    "city": "Dhariwal",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059084",
+    "city": "Kotkapura",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058755",
+    "city": "Mandi Dabwali",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059073",
+    "city": "Faridkot",
+    "state": "Punjab"
+},
+{
+    "city_id": "4387717",
+    "city": "Beas",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399781",
+    "city": "Goindwal",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399629",
+    "city": "Sri Hargobindpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399597",
+    "city": "Makhu",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059100",
+    "city": "Tarantaran",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399577",
+    "city": "Jaitu",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399591",
+    "city": "Bhikhiwind",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399579",
+    "city": "Jalalabad",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399651",
+    "city": "Baba Bakala",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399589",
+    "city": "Giddarbaha",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399679",
+    "city": "Maur",
+    "state": "Punjab"
+},
+{
+    "city_id": "5339040",
+    "city": "Raman",
+    "state": "Punjab"
+},
+{
+    "city_id": "4405951",
+    "city": "Chak Alampur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4399481",
+    "city": "Dasuya",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399541",
+    "city": "Goniana",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399667",
+    "city": "Jandiala Amritsar District",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399721",
+    "city": "Bhagta Bhai Ka",
+    "state": "Punjab"
+},
+{
+    "city_id": "4059087",
+    "city": "Malaut",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399483",
+    "city": "Mukerian",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399543",
+    "city": "Guru Har Sahai",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399565",
+    "city": "Sardulgarh",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402063",
+    "city": "Karurppur",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399755",
+    "city": "Maraar Kalan",
+    "state": "Punjab"
+},
+{
+    "city_id": "4395377",
+    "city": "Sanoor",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4399653",
+    "city": "Chogawan",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399771",
+    "city": "Fatehgarh Churian",
+    "state": "Punjab"
+},
+{
+    "city_id": "5343655",
+    "city": "Tisa",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401683",
+    "city": "Vathirairuppu",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400763",
+    "city": "Uppidamangalam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399777",
+    "city": "Jugial",
+    "state": "Punjab"
+},
+{
+    "city_id": "4400605",
+    "city": "Balakrishnapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399783",
+    "city": "Qadian",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399551",
+    "city": "Zira",
+    "state": "Punjab"
+},
+{
+    "city_id": "4401293",
+    "city": "Sundarapandiapuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059074",
+    "city": "Fazilka",
+    "state": "Punjab"
+},
+{
+    "city_id": "4397939",
+    "city": "Umred MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4401513",
+    "city": "Dusi",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4401785",
+    "city": "Alangayam",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4400905",
+    "city": "Erumaipatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4405453",
+    "city": "Makardaha",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4403409",
+    "city": "Mahona",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4397883",
+    "city": "Patalganga MIDC",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4399527",
+    "city": "Bhucho Mandi",
+    "state": "Punjab"
+},
+{
+    "city_id": "5312555",
+    "city": "Hirapur",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4399711",
+    "city": "Khilchian",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399737",
+    "city": "Mehna",
+    "state": "Punjab"
+},
+{
+    "city_id": "4402849",
+    "city": "Jagner",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "5427999",
+    "city": "Khanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4221475",
+    "city": "Pujali",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4401777",
+    "city": "Lakkampatti",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399615",
+    "city": "Talwandi Bhai",
+    "state": "Punjab"
+},
+{
+    "city_id": "4399741",
+    "city": "Mudki",
+    "state": "Punjab"
+},
+{
+    "city_id": "5328173",
+    "city": "Nangli",
+    "state": "Punjab"
+},
+{
+    "city_id": "4398267",
+    "city": "Raver",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4401481",
+    "city": "Virinchipuram",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4399621",
+    "city": "Dinanagar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058526",
+    "city": "Hyderabad",
+    "state": "Telangana"
+},
+{
+    "city_id": "4058677",
+    "city": "Ahmedabad",
+    "state": "Gujarat"
+},
+{
+    "city_id": "4058593",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh"
+},
+{
+    "city_id": "4058873",
+    "city": "Kochi",
+    "state": "Kerala"
+},
+{
+    "city_id": "4058727",
+    "city": "Surat",
+    "state": "Gujarat"
+},
+{
+    "city_id": "4058723",
+    "city": "Rajkot",
+    "state": "Gujarat"
+},
+{
+    "city_id": "4058891",
+    "city": "Thrissur",
+    "state": "Kerala"
+},
+{
+    "city_id": "4058889",
+    "city": "Trivandrum",
+    "state": "Kerala"
+},
+{
+    "city_id": "4058524",
+    "city": "Guntur",
+    "state": "Andhra Pradesh"
+},
+{
+    "city_id": "4058556",
+    "city": "Nellore",
+    "state": "Andhra Pradesh"
+},
+{
+    "city_id": "4157275",
+    "city": "Kolkata",
+    "state": "West Bengal"
+},
+{
+    "city": "Alwar",
+    "city_id": "4059102",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058659",
+    "city": "Delhi",
+    "state": "Delhi"
+},
+{
+    "city_id": "4059162",
+    "city": "Chennai",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4058803",
+    "city": "Bengaluru",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4058997",
+    "city": "Mumbai",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059081",
+    "city": "Jalandhar",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058760",
+    "city": "Panipat",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059014",
+    "city": "Pune",
+    "state": "Maharashtra"
+},
+{
+    "city_id": "4059306",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059164",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4059123",
+    "city": "Jaipur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059295",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059142",
+    "city": "Sikar",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4059243",
+    "city": "Agra",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4058750",
+    "city": "Hisar",
+    "state": "Haryana"
+},
+{
+    "city_id": "4059146",
+    "city": "Udaipur",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4058840",
+    "city": "Mangaluru",
+    "state": "Karnataka"
+},
+{
+    "city_id": "4059207",
+    "city": "Salem",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "4387773",
+    "city": "Durgapur",
+    "state": "West Bengal"
+},
+{
+    "city_id": "4059101",
+    "city": "Ajmer",
+    "state": "Rajasthan"
+},
+{
+    "city_id": "4399775",
+    "city": "Zirakpur",
+    "state": "Punjab"
+},
+{
+    "city_id": "4296460",
+    "city": "Mohali",
+    "state": "Punjab"
+},
+{
+    "city_id": "4058651",
+    "city": "Chandigarh",
+    "state": "Chandigarh"
+},
+{
+    "city_id": "4059296",
+    "city": "Kanpur Cantonment",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4402577",
+    "city": "Akbarpur Near Kanpur",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4403715",
+    "city": "Rasulabad Kanpur Dehat District",
+    "state": "Uttar Pradesh"
+},
+{
+    "city_id": "4059220",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu"
+},
+{
+    "city_id": "5460608",
+    "city": "Manglam City",
+    "state": "Jaipur"
+},
+{
+    "city_id": "4058901",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh"
+},
+{
+    "city_id": "4058526",
+    "city": "Hyderabad",
+    "state": "Telangana"
+},
+{
+    "city_id": "4058591",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh"
+},
+{
+    "city_id": "4058732",
+    "city": "Vadodara",
+    "state": "Gujarat"
+},
+{
+    "city_id": "4058698",
+    "city": "Gandhinagar",
+    "state": "Gujarat"
+},
+{
+    "city_id": "4058876",
+    "city": "Kottayam",
+    "state": "Kerala"
+},
+{
+    "city_id": "5438333",
+    "city": "Calicut",
+    "state": "Kerala"
+},
+{
+    "city_id": "4058604",
+    "city": "Guwahati",
+    "state": "Assam"
+},
+{
+    "city_id": "4058556",
+    "city": "Nellore",
+    "state": "Andhra Pradesh"
+},
+{
+    "city_id":"5318666", 
+    "city":"Limbodi",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4059280", 
+    "city":"Ghaziabad",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4059326",
+    "city":"Noida",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4058748",
+    "city":"Gurgaon",
+    "state":"Haryana"
+},
+{
+    "city_id":"5386485",
+    "city":"Dombivli",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5460219",
+    "city":"Titwala",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5326842",
+    "city":"Virar East",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4059009",
+    "city":"Panvel",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5455456",
+    "city":"Nadergul",
+    "state":"Telangana"
+},
+{
+    "city_id":"5338849",
+    "city":"Medchal",
+    "state":"Telangana"
+},
+{
+    "city_id":"1000000000002388",
+    "city":"Bhanur",
+    "state":"Telangana"
+},
+{
+    "city_id":"4397987",
+    "city":"Lavasa",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4398465",
+    "city":"Chakan",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5325550",
+    "city":"Saswad Road",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5460954",
+    "city":"Kalwara",
+    "state":"Rajashthan"
+},
+{
+    "city_id":"5333695",
+    "city":"Vatika",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"5460949",
+    "city":"Kalwar",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4058759",
+    "city":"Panchkula",
+    "state":"Haryana"
+},
+{
+    "city_id":"4399725",
+    "city":"Kharar",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399485",
+    "city":"Morinda",
+    "state":"Punjab"
+},
+{
+    "city_id":"5337085",
+    "city":"Ramapuram",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4059157",
+    "city":"Avadi",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"5337161",
+    "city":"Minjur",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4401133",
+    "city":"Ponneri",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"5335974",
+    "city":"Siruseri",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4393855",
+    "city":"Bareja",
+    "state":"Gujrat"
+},
+{
+    "city_id":"4058707",
+    "city":"Kalol",
+    "state":"Gujrat"
+},
+{
+    "city_id":"5334855",
+    "city":"Sukher",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4395201",
+    "city":"Bannur",
+    "state":"Karnatka"
+},
+{
+    "city_id":"4387877",
+    "city":"Nanjangud",
+    "state":"Karnatka"
+},
+{
+    "city_id":"5313622",
+    "city":"Hullahalli",
+    "state":"Karnatka"
+},
+{
+    "city_id":"4221396",
+    "city":"Howrah",
+    "state":"Weest Bengal"
+},
+{
+    "city_id":"4405165",
+    "city":"Singur",
+    "state":"West Bengal"
+},
+{
+    "city_id":"4221389",
+    "city":"Hugli-Chinsurah",
+    "state":"West Bengal"
+},
+{
+    "city_id":"4405071",
+    "city":"Bhangar Raghunathpur",
+    "state":"West Bengal"
+},
+{
+    "city_id":"4405949",
+    "city":"Dakshin Raypur",
+    "state":"West Bengal"
+},
+{
+    "city_id":"5300492",
+    "city":"Nunna",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"5301083",
+    "city":"Gopalapatnam",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4058520",
+    "city":"Gajuwaka",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"5318808",
+    "city":"Vijay Nagar",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"5387777",
+    "city":"Ernakulam",
+    "state":"Kerala"
+},
+{
+    "city_id":"5452257",
+    "city":"Kakkanad",
+    "state":"Kerala"
+},
+{
+    "city_id":"4395807",
+    "city":"Aluva",
+    "state":"Kerala"
+},
+{
+    "city_id":"5460311",
+    "city":"Chellanam",
+    "state":"Kerala"
+},
+{
+    "city_id":"4059319",
+    "city":"Mubarakpur",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"1000000000001763",
+    "city":"Masma Gaon",
+    "state":"Gujrat"
+},
+{
+    "city_id":"1000000000001741",
+    "city":"Saroli",
+    "state":"Gujrat"
+},
+{
+    "city_id":"5461472",
+    "city":"Udhna",
+    "state":"Gujrat"
+},
+{
+    "city_id":"5307807",
+    "city":"Nawa Magdalla",
+    "state":"Gujrat"
+},
+{
+    "city_id":"4393775",
+    "city":"Padra",
+    "state":"Gujrat"
+},{
+    "city_id":"5305030",
+    "city":"Dani Limda",
+    "state":"Gujrat"
+},
+{
+    "city_id":"4394041",
+    "city":"Jarod",
+    "state":"Gujrat"
+},
+{
+    "city_id":"5308653",
+    "city":"Lalbaug",
+    "state":"Gujrat"
+},
+{
+    "city_id":"4401703",
+    "city":"Gudalur Coimbatore District",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4401723",
+    "city":"Annur",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4401449",
+    "city":"Palladam",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4387981",
+    "city":"Ullal",
+    "state":"Karnataka"
+},
+{
+    "city_id":"1000000000001350",
+    "city":"West Kallada",
+    "state":"Kerala"
+},
+{
+    "city_id":"4059348",
+    "city":"Tundla",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4402793",
+    "city":"Fatehabad",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4403161",
+    "city":"Sadabad",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4394113",
+    "city":"Adalaj",
+    "state":"Gujrat"
+},
+{
+    "city_id":"4058939",
+    "city":"Sehore",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4394325",
+    "city":"Gangwa",
+    "state":"Haryana"
+},
+{
+    "city_id":"4058749",
+    "city":"Hansi",
+    "state":"Haryana"
+},
+{
+    "city_id":"4399477",
+    "city":"Phillaur",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399587",
+    "city":"Doraha",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399647",
+    "city":"Jodhan",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399637",
+    "city":"Halwara",
+    "state":"Punjab"
+},
+{
+    "city_id":"4395803",
+    "city":"Kumarakom",
+    "state":"Kerla"
+},
+{
+    "city_id":"1000000000002169",
+    "city":"Pampady",
+    "state":"Kerla"
+},
+{
+    "city_id":"4399673",
+    "city":"Majitha",
+    "state":"Punjab"
+},
+{
+    "city_id":"4403001",
+    "city":"Daurala",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4059313",
+    "city":"Mawana",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4403297",
+    "city":"Phalauda",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4059317",
+    "city":"Modinagar",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4404371",
+    "city":"Rangia",
+    "state":"Assam"
+},
+{
+    "city_id":"4399493",
+    "city":"Kurali",
+    "state":"Punjab"
+},
+{
+    "city_id":"4394383",
+    "city":"Kalka",
+    "state":"Haryana"
+},
+{
+    "city_id":"4394417",
+    "city":"Kasauli",
+    "state":"Himachal Pradesh"
+},
+{
+    "city_id":"5333954",
+    "city":"Banar",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"5334119",
+    "city":"Sangariya",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4399929",
+    "city":"Boranada Special Economic Zone",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4400015",
+    "city":"Salasar",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4059274",
+    "city":"Faridpur",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"1000000000001604",
+    "city":"Tadikonda",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"5300154",
+    "city":"Namburu",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4396847",
+    "city":"Chebrolu",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4396601",
+    "city":"Perecherla",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4058587",
+    "city":"Tenali",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4396519",
+    "city":"Kovalam",
+    "state":"Kerala"
+},
+{
+    "city_id":"5459272",
+    "city":"Poovar",
+    "state":"Kerala"
+},
+{
+    "city_id":"4395811",
+    "city":"Attingal",
+    "state":"Kerala"
+},
+{
+    "city_id":"4395833",
+    "city":"Varkala",
+    "state":"Kerala"
+},
+{
+    "city_id":"5459159",
+    "city":"Kallara",
+    "state":"Kerala"
+},
+{
+    "city_id":"5439759",
+    "city":"Kollayil",
+    "state":"Kerala"
+},
+{
+    "city_id":"4394399",
+    "city":"Samalkha",
+    "state":"Haryana "
+},
+{
+    "city_id":"4394281",
+    "city":"Gharaunda",
+    "state":"Haryana"
+},
+{
+    "city_id":"4399785",
+    "city":"Dera Bassi",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399573",
+    "city":"Banur",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399699",
+    "city":"Lalru",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399495",
+    "city":"Kartarpur",
+    "state":"Punjab"
+},
+{
+    "city_id":"4399475",
+    "city":"Nakodar",
+    "state":"Punjab"
+},
+{
+    "city_id":"5452399",
+    "city":"Arimbur",
+    "state":"Kerala"
+},
+{
+    "city_id":"4396133",
+    "city":"Parappur",
+    "state":"Kerala"
+},
+{
+    "city_id":"4396339",
+    "city":"Nadathara",
+    "state":"Kerala"
+},
+{
+    "city_id":"5460390",
+    "city":"Marottichuvadu",
+    "state":"Kerala"
+},
+{
+    "city_id":"4399965",
+    "city":"Saradhana RIICO",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4399813",
+    "city":"Pushkar",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4396871",
+    "city":"Indukurpet",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4396955",
+    "city":"Allur",
+    "state":"Andhra Pradesh"
+},
+{
+    "city_id":"4401611",
+    "city":"Thuvakudi",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4400941",
+    "city":"Mallur",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4400937",
+    "city":"Omalur",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4401077",
+    "city":"Sankari",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4221369",
+    "city":"Raniganj",
+    "state":"West Bengal"
+},
+{
+    "city_id":"4406055",
+    "city":"Ajodhyanagar",
+    "state":"West Bengal"
+},
+{
+    "city_id":"5344569",
+    "city":"Panagarh",
+    "state":"West Bengal"
+},
+{
+    "city_id":"4405163",
+    "city":"Barjora",
+    "state":"West Bengal"
+},
+{
+    "city_id":"5334529",
+    "city":"Nani",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4058998",
+    "city":"Nagpur",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4059236",
+    "city":"Dehradun",
+    "state":"Uttaranchal"
+},
+{
+    "city_id":"4058830",
+    "city":"Hubballi",
+    "state":"Karnataka"
+},
+{
+    "city_id":"4058642",
+    "city":"Patna",
+    "state":"Bihar"
+},
+{
+    "city_id":"4058913",
+    "city":"Gwalior",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4059129",
+    "city":"Kota",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4058918",
+    "city":"Jabalpur",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4058988",
+    "city":"Kolhapur",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4059021",
+    "city":"Aurangabad",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4059246",
+    "city":"Allahabad",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4059351",
+    "city":"Varanasi",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4058797",
+    "city":"Ranchi",
+    "state":"Jharkhand"
+},
+{
+    "city_id":"4059188",
+    "city":"Madurai",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4221382",
+    "city":"Siliguri",
+    "state":"West Bengal"
+},
+{
+    "city_id":"4059473",
+    "city":"Raipur",
+    "state":"Chattisgarh"
+},
+{
+    "city_id":"4059049",
+    "city":"Bhubaneshwar",
+    "state":"Odisha"
+},
+{
+    "city_id":"4058644",
+    "city":"Purnia",
+    "state":"Bihar"
+},
+{
+    "city_id":"4058640",
+    "city":"Muzaffarpur",
+    "state":"Bihar"
+},
+{
+    "city_id":"4058805",
+    "city":"Belagavi",
+    "state":"Karnatka"
+},
+{
+    "city_id":"4059002",
+    "city":"Nashik",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"1000000000001695",
+    "city":"Jamtha",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4387809",
+    "city":"Kamptee",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4398827",
+    "city":"Butibori",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4398589",
+    "city":"Kalameshwar",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4058972",
+    "city":"Deolali",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4398529",
+    "city":"Trimbak",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4403899",
+    "city":"Doiwala",
+    "state":"Uttarancchal"
+},
+{
+    "city_id":"4403969",
+    "city":"Mussoorie",
+    "state":"Uttaranchal"
+},
+{
+    "city_id":"4387759",
+    "city":"Dharwad",
+    "state":"Karnataka"
+},
+{
+    "city_id":"4404507",
+    "city":"Maner",
+    "state":"Bihar"
+},
+{
+    "city_id":"4387727",
+    "city":"Bihta",
+    "state":"Bihar"
+},
+{
+    "city_id":"4397545",
+    "city":"Bamer Morena",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4400029",
+    "city":"Talera",
+    "state":"Rajasthan"
+},
+{
+    "city_id":"4397591",
+    "city":"Bhedaghat",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4397395",
+    "city":"Panagar",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"4397465",
+    "city":"Barela",
+    "state":"Madhya Pradesh"
+},
+{
+    "city_id":"5321821",
+    "city":"Shiroli",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"439822",
+    "city":"Kagal",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5371223",
+    "city":"Kalambe T Thane",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5416953",
+    "city":"Daulatabad",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"4398557",
+    "city":"Pipri",
+    "state":"Maharashtra"
+},
+{
+    "city_id":"5383007",
+    "city":"Saray Taki",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4402743",
+    "city":"Karari",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"5445805",
+    "city":"Soraon",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4059320",
+    "city":"Mughalsarai",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4402623",
+    "city":"Baragaon",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4403177",
+    "city":"Ramnagar",
+    "state":"Uttar Pradesh"
+},
+{
+    "city_id":"4387973",
+    "city":"Thiruparankundram",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"5386771",
+    "city":"Silaiman",
+    "state":"Tamil Nadu"
+},
+{
+    "city_id":"4395459",
+    "city":"Yellur",
+    "state":"Karnatka"
+},
+{
+    "city_id":"4059463",
+    "city":"Bhilai",
+    "state":"Chattisgarh"
+},
+{
+    "city_id":"5304186",
+    "city":"Charoda",
+    "state":"Chattisgarh"
+},
+{
+    "city_id":"4399161",
+    "city":"Khordha",
+    "state":"Odisha"
+},
+{
+    "city_id":"4059052",
+    "city":"Cuttack",
+    "state":"Odisha"
+},
+{
+    "city_id":"5302876",
+    "city":"Turki",
+    "state":"Muzaffarpur"
+},
+{
+    "city_id":"5302804",
+    "city":"Kurhani",
+    "state":"Muzaffarpur"
+},
+{
+    "city_id":"5302798",
+    "city":"Kanti",
+    "state":"Muzaffarpur"
+},
+{
+    "city_id":"5302813",
+    "city":"Majhaulia",
+    "state":"Muzaffarpur"
+}
+
+]

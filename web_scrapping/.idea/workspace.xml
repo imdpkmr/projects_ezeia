@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8fede14-95d2-4cf0-825d-9dc00db48074" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/shiksha/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiksha/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiksha/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiksha/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiksha/.idea/shiksha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiksha/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiksha/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiksha/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiksha/scraper_courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiksha/scraper_courses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiksha/scraper_exams.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiksha/scraper_exams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiksha/scraper_institute.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiksha/scraper_institute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiksha/scraper_url_courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiksha/scraper_url_courses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiksha/scraper_url_institute.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiksha/scraper_url_institute.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shiksha" />
+  </component>
+  <component name="ProjectId" id="1ZIG0Bc7TAdWjxvmnLZ1Ypt0447" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shiksha" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shiksha/out_files" />
+      <recent name="$PROJECT_DIR$/shiksha" />
+      <recent name="$PROJECT_DIR$/Misc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.scraper_courses">
+    <configuration name="scraper_courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiksha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiksha/scraper_courses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper_exams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiksha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiksha/scraper_exams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper_institute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiksha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiksha/scraper_institute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper_url_courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiksha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiksha/scraper_url_courses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper_url_institute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiksha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiksha/scraper_url_institute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scraper_courses" />
+        <item itemvalue="Python.scraper_url_courses" />
+        <item itemvalue="Python.scraper_exams" />
+        <item itemvalue="Python.scraper_institute" />
+        <item itemvalue="Python.scraper_url_institute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8fede14-95d2-4cf0-825d-9dc00db48074" name="Default Changelist" comment="" />
+      <created>1584518968632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584518968632</updated>
+      <workItem from="1584518970082" duration="1096000" />
+      <workItem from="1584525671510" duration="9886000" />
+      <workItem from="1584597253668" duration="1665000" />
+      <workItem from="1584599262347" duration="11434000" />
+      <workItem from="1585036821624" duration="27000" />
+      <workItem from="1585036920593" duration="14676000" />
+      <workItem from="1585129550880" duration="10796000" />
+      <workItem from="1585142106853" duration="24315000" />
+      <workItem from="1585214854354" duration="9184000" />
+      <workItem from="1585236554534" duration="3981000" />
+      <workItem from="1585242504061" duration="970000" />
+      <workItem from="1585292018289" duration="1983000" />
+      <workItem from="1585294566739" duration="18575000" />
+      <workItem from="1585394916138" duration="46445000" />
+      <workItem from="1585542637617" duration="2215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="27" width="879" height="741" key="CommitChangelistDialog2" timestamp="1584626040704">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="238" y="27" width="879" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584626040704" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585502395193">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585502395193" />
+    <state width="627" height="195" key="GridCell.Tab.0.bottom" timestamp="1585549201816">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="627" height="195" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585549201816" />
+    <state width="627" height="195" key="GridCell.Tab.0.center" timestamp="1585549201814">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="627" height="195" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585549201814" />
+    <state width="627" height="195" key="GridCell.Tab.0.left" timestamp="1585549201812">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="627" height="195" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585549201812" />
+    <state width="627" height="195" key="GridCell.Tab.0.right" timestamp="1585549201815">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="627" height="195" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585549201815" />
+    <state x="344" y="31" key="SettingsEditor" timestamp="1584535642692">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="344" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584535642692" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585542762593">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585542762593" />
+    <state x="0" y="27" width="863" height="741" key="find.popup" timestamp="1585241664177">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="863" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1585241664177" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584536507487">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1584536507487" />
+    <state x="408" y="296" width="540" height="200" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584539028109">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="408" y="296" width="540" height="200" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1584539028109" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper.coverage" NAME="scraper_institute Coverage Results" MODIFIED="1585141944635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$webscraper.coverage" NAME="webscraper Coverage Results" MODIFIED="1584536381300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackernoon" />
+    <SUITE FILE_PATH="coverage/web_scrapping$parsedata.coverage" NAME="parsedata Coverage Results" MODIFIED="1584536783064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackernoon" />
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper_exams.coverage" NAME="scraper_exams Coverage Results" MODIFIED="1585423193004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$tests.coverage" NAME="tests Coverage Results" MODIFIED="1584600079590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc" />
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper_url.coverage" NAME="scraper_url Coverage Results" MODIFIED="1585298722855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper_institute.coverage" NAME="scraper_institute Coverage Results" MODIFIED="1585421485885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper_url_institute.coverage" NAME="scraper_url_institute Coverage Results" MODIFIED="1585405980861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$wiki_test.coverage" NAME="wiki_test Coverage Results" MODIFIED="1584519337730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper_url_courses.coverage" NAME="scraper_url_courses Coverage Results" MODIFIED="1585433227086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$database.coverage" NAME="database Coverage Results" MODIFIED="1585151878193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+    <SUITE FILE_PATH="coverage/web_scrapping$Usnews.coverage" NAME="Usnews Coverage Results" MODIFIED="1584599409059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Misc/Scraping-USNews-College-Ranking" />
+    <SUITE FILE_PATH="coverage/web_scrapping$scraper_courses.coverage" NAME="scraper_courses Coverage Results" MODIFIED="1585543005445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiksha" />
+  </component>
+</project>

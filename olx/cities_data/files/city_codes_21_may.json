@@ -1,0 +1,612 @@
+cityCodeArr = [
+    {
+        "city_id": "4058659",
+        "city": "Delhi",
+        "state": "Delhi"
+    },
+    {
+        "city_id":"4059280", 
+        "city":"Ghaziabad",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4059326",
+        "city":"Noida",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4058748",
+        "city":"Gurgaon",
+        "state":"Haryana"
+    },
+    
+    {
+        "city_id": "4059123",
+        "city": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "city_id":"5460954",
+        "city":"Kalwara",
+        "state":"Rajashthan"
+    },
+    {
+        "city_id":"5333695",
+        "city":"Vatika",
+        "state":"Rajasthan"
+    },
+    {
+        "city_id":"5460949",
+        "city":"Kalwar",
+        "state":"Rajasthan"
+    },
+    
+    {
+        "city_id": "4296460",
+        "city": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "city_id":"4058759",
+        "city":"Panchkula",
+        "state":"Haryana"
+    },
+    {
+        "city_id":"4399725",
+        "city":"Kharar",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399485",
+        "city":"Morinda",
+        "state":"Punjab"
+    },
+
+    {
+        "city_id": "4058677",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "city_id":"4393855",
+        "city":"Bareja",
+        "state":"Gujrat"
+    },
+
+    {
+        "city_id": "4059146",
+        "city": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "city_id":"5334855",
+        "city":"Sukher",
+        "state":"Rajasthan"
+    },
+
+    {
+        "city_id": "4157275",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "city_id":"4221396",
+        "city":"Howrah",
+        "state":"Weest Bengal"
+    },
+    {
+        "city_id":"4405165",
+        "city":"Singur",
+        "state":"West Bengal"
+    },
+    {
+        "city_id":"4221389",
+        "city":"Hugli-Chinsurah",
+        "state":"West Bengal"
+    },
+    {
+        "city_id":"4405071",
+        "city":"Bhangar Raghunathpur",
+        "state":"West Bengal"
+    },
+    {
+        "city_id":"4405949",
+        "city":"Dakshin Raypur",
+        "state":"West Bengal"
+    },
+
+    {
+        "city_id": "4059306",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id":"4059319",
+        "city":"Mubarakpur",
+        "state":"Uttar Pradesh"
+    },
+
+    {
+        "city_id": "4058762",
+        "city": "Rohtak",
+        "state": "Haryana"
+    },
+
+    {
+        "city_id": "4059236",
+        "city": "Dehradun",
+        "state": "Uttaranchal"
+    },
+    {
+        "city_id":"4403899",
+        "city":"Doiwala",
+        "state":"Uttarancchal"
+    },
+    {
+        "city_id":"4403969",
+        "city":"Mussoorie",
+        "state":"Uttaranchal"
+    },
+
+    {
+        "city_id": "4058727",
+        "city": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "city_id":"1000000000001763",
+        "city":"Masma Gaon",
+        "state":"Gujrat"
+    },
+    {
+        "city_id":"1000000000001741",
+        "city":"Saroli",
+        "state":"Gujrat"
+    },
+    {
+        "city_id":"5461472",
+        "city":"Udhna",
+        "state":"Gujrat"
+    },
+    {
+        "city_id":"5307807",
+        "city":"Nawa Magdalla",
+        "state":"Gujrat"
+    },
+
+    {
+        "city_id": "4058732",
+        "city": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "city_id":"4393775",
+        "city":"Padra",
+        "state":"Gujrat"
+    },{
+        "city_id":"5305030",
+        "city":"Dani Limda",
+        "state":"Gujrat"
+    },
+    {
+        "city_id":"4394041",
+        "city":"Jarod",
+        "state":"Gujrat"
+    },
+    {
+        "city_id":"5308653",
+        "city":"Lalbaug",
+        "state":"Gujrat"
+    },
+
+    {
+        "city_id": "4059295",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id": "4058698",
+        "city": "Gandhinagar",
+        "state": "Gujarat"
+    },
+    {
+        "city_id":"4058707",
+        "city":"Kalol",
+        "state":"Gujrat"
+    },
+
+    {
+        "city_id": "4059243",
+        "city": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id":"4059348",
+        "city":"Tundla",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4402793",
+        "city":"Fatehabad",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4403161",
+        "city":"Sadabad",
+        "state":"Uttar Pradesh"
+    },
+
+    {
+        "city_id": "4058642",
+        "city": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "city_id":"4404507",
+        "city":"Maner",
+        "state":"Bihar"
+    },
+    {
+        "city_id":"4387727",
+        "city":"Bihta",
+        "state":"Bihar"
+    },
+
+    {
+        "city_id": "4058750",
+        "city": "Hisar",
+        "state": "Haryana"
+    },
+    {
+        "city_id":"4394325",
+        "city":"Gangwa",
+        "state":"Haryana"
+    },
+    {
+        "city_id":"4058749",
+        "city":"Hansi",
+        "state":"Haryana"
+    },
+
+    {
+        "city_id": "4059085",
+        "city": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "city_id":"4399477",
+        "city":"Phillaur",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399587",
+        "city":"Doraha",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399647",
+        "city":"Jodhan",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399637",
+        "city":"Halwara",
+        "state":"Punjab"
+    },
+
+    {
+        "city_id": "4059069",
+        "city": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "city_id":"4399673",
+        "city":"Majitha",
+        "state":"Punjab"
+    },
+
+    {
+        "city_id": "4059314",
+        "city": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id":"4403001",
+        "city":"Daurala",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4059313",
+        "city":"Mawana",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4403297",
+        "city":"Phalauda",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4059317",
+        "city":"Modinagar",
+        "state":"Uttar Pradesh"
+    },
+
+    {
+        "city_id": "4058604",
+        "city": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "city_id":"4404371",
+        "city":"Rangia",
+        "state":"Assam"
+    },
+
+    {
+        "city_id": "4058651",
+        "city": "Chandigarh",
+        "state": "Chandigarh"
+    },
+
+    {
+        "city_id": "4059126",
+        "city": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "city_id":"5333954",
+        "city":"Banar",
+        "state":"Rajasthan"
+    },
+    {
+        "city_id":"5334119",
+        "city":"Sangariya",
+        "state":"Rajasthan"
+    },
+    {
+        "city_id":"4399929",
+        "city":"Boranada Special Economic Zone",
+        "state":"Rajasthan"
+    },
+    {
+        "city_id":"4400015",
+        "city":"Salasar",
+        "state":"Rajasthan"
+    },
+
+    {
+        "city_id": "4059129",
+        "city": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "city_id":"4400029",
+        "city":"Talera",
+        "state":"Rajasthan"
+    },
+
+    {
+        "city_id": "4059256",
+        "city": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id":"4059274",
+        "city":"Faridpur",
+        "state":"Uttar Pradesh"
+    },
+
+    {
+        "city_id": "4058918",
+        "city": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city_id":"4397591",
+        "city":"Bhedaghat",
+        "state":"Madhya Pradesh"
+    },
+    {
+        "city_id":"4397395",
+        "city":"Panagar",
+        "state":"Madhya Pradesh"
+    },
+    {
+        "city_id":"4397465",
+        "city":"Barela",
+        "state":"Madhya Pradesh"
+    },
+
+    {
+        "city_id": "4059246",
+        "city": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id":"5383007",
+        "city":"Saray Taki",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4402743",
+        "city":"Karari",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"5445805",
+        "city":"Soraon",
+        "state":"Uttar Pradesh"
+    },
+
+    {
+        "city_id": "4059351",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city_id":"4059320",
+        "city":"Mughalsarai",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4402623",
+        "city":"Baragaon",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "city_id":"4403177",
+        "city":"Ramnagar",
+        "state":"Uttar Pradesh"
+    },
+
+    {
+        "city_id": "4058760",
+        "city": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "city_id":"4394399",
+        "city":"Samalkha",
+        "state":"Haryana "
+    },
+    {
+        "city_id":"4394281",
+        "city":"Gharaunda",
+        "state":"Haryana"
+    },
+    
+    {
+        "city_id": "4058723",
+        "city": "Rajkot",
+        "state": "Gujarat"
+    },
+
+    {
+        "city_id": "4399775",
+        "city": "Zirakpur",
+        "state": "Punjab"
+    },
+    {
+        "city_id":"4399785",
+        "city":"Dera Bassi",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399573",
+        "city":"Banur",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399699",
+        "city":"Lalru",
+        "state":"Punjab"
+    },
+
+    {
+        "city_id": "4059081",
+        "city": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "city_id":"4399495",
+        "city":"Kartarpur",
+        "state":"Punjab"
+    },
+    {
+        "city_id":"4399475",
+        "city":"Nakodar",
+        "state":"Punjab"
+    },
+
+    {
+        "city_id": "4059101",
+        "city": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "city_id":"4399965",
+        "city":"Saradhana RIICO",
+        "state":"Rajasthan"
+    },
+    {
+        "city_id":"4399813",
+        "city":"Pushkar",
+        "state":"Rajasthan"
+    },
+
+    {
+        "city_id": "4221382",
+        "city": "Siliguri",
+        "state": "West Bengal"
+    },
+
+    {
+        "city_id": "4059102",
+        "city": "Alwar",
+        "state": "Rajasthan"
+    },
+
+    {
+        "city_id": "4387773",
+        "city": "Durgapur",
+        "state": "West Bengal"
+    },
+    {
+        "city_id":"4406055",
+        "city":"Ajodhyanagar",
+        "state":"West Bengal"
+    },
+    {
+        "city_id":"5344569",
+        "city":"Panagarh",
+        "state":"West Bengal"
+    },
+    {
+        "city_id":"4405163",
+        "city":"Barjora",
+        "state":"West Bengal"
+    },
+
+    {
+        "city_id": "4058644",
+        "city": "Purnia",
+        "state": "Bihar"
+    },
+
+    {
+        "city_id": "4058640",
+        "city": "Muzaffarpur",
+        "state": "Bihar"
+    },
+    {
+        "city_id":"5302876",
+        "city":"Turki",
+        "state":"Muzaffarpur"
+    },
+    {
+        "city_id":"5302804",
+        "city":"Kurhani",
+        "state":"Muzaffarpur"
+    },
+    {
+        "city_id":"5302798",
+        "city":"Kanti",
+        "state":"Muzaffarpur"
+    },
+    {
+        "city_id":"5302813",
+        "city":"Majhaulia",
+        "state":"Muzaffarpur"
+    },   
+
+    {
+        "city_id": "4059142",
+        "city": "Sikar",
+        "state": "Rajasthan"
+    },
+    {
+        "city_id":"5334529",
+        "city":"Nani",
+        "state":"Rajasthan"
+    },
+]

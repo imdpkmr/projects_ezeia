@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf6a2b0c-d44e-43bf-a8dd-ef59957de78f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5Ah8nOwvTEkmCzTnYYwAbuT2o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chromedriver_linux64" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="github_automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf6a2b0c-d44e-43bf-a8dd-ef59957de78f" name="Default Changelist" comment="" />
+      <created>1586015197506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586015197506</updated>
+      <workItem from="1586015202673" duration="731000" />
+      <workItem from="1586015964983" duration="529000" />
+      <workItem from="1586018094921" duration="1505000" />
+      <workItem from="1586176928196" duration="736000" />
+      <workItem from="1586257794786" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586016428250">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586016428250" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1586019599908">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586019599908" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1586019599907">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586019599907" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1586019599907">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586019599907" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1586019599907">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586019599907" />
+    <state x="172" y="31" key="SettingsEditor" timestamp="1586018686371">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1586018686371" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586259416310">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1586259416310" />
+    <state x="347" y="49" width="662" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586018689412">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="49" width="662" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1586018689412" />
+    <state x="408" y="288" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586016278109">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="408" y="288" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1586016278109" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/github_automation$login.coverage" NAME="login Coverage Results" MODIFIED="1586019566839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,98 @@
+S No	Opr Cities
+1	Delhi-NCR - ghaziabad, noida, gurgaon
+2	Bangalore  -  dobbaspel, hosur, ramanagara
+3	Mumbai  -  dombibali, vadape, titwala, virar, panvel
+4	Hyderabad  -  nadergul, anajpur, bogaram, dundigal, medchal, bhanur, chevella
+5	Pune  - lavasa, chakan, gurholi, saswad
+6	Jaipur  - nindar, kikas, kanauta, kalwara, vatika, kalwar
+7	Mohali  - panchkula, kharar, sahauran, morinda
+8	Chennai  -  ramapuram, avadi, minjur, ponneri, siruseri
+9	Ahmedabad  - bareja, kalol, gandhinagar
+10	Udaipur   - sukher, kotra, umarda
+11	Mysore - bannur, sutturu, nanjangud, hullahalli 
+12	Kolkata  - howrah, singur, chinsurah, baroa, bhangar, raypur,
+13	Vijayawada - nunna, konduru, amaravati
+14	Visakhapatnam   -  gopalapatnam, gajuwaka
+17	Indore   -  limbodi, vijay nagar, jakhya, limbodi, machala, baroli
+18	Kochi   - ernakulam, kakkanad, aluva, chellanam
+19	Lucknow  -  saitha, ghaila, mubarakpur, guramba, natkur
+20	Rohtak   -  tatauli, karawar, dighai, kabulpur
+22	Surat   -  masma, saroli, gothan, udhna, magdalla un, kosmada, kadodara
+23	Vadodara  -   padra, por, limda, jarod, lalbaug
+24	Coimbatore  -  anaikatti, gudalur, annur, palladam, walayar, agali
+25	Mangalore   -  kateelu, mudbidri, batwal, ullal, kalladka
+26	Kanpur  -  rania, ramaipur, mandhana, ajgain
+27	Agra    - tundla, fatehabad, hekragarh, sadabad
+29	Gandhinagar  - nardipur, kalol, adalaj, amarapur,
+31	Bhopal  -  sehore, toomda, khedi, islamnagar, balampur, bhojpur, chiklod
+32	Hisar   - kirtan, bugana, gangwa, agroha, hansi, umra
+33	Ludhiana -  hambran, phillaur, kohara, pawa, doraha, jodhan, halwara,
+34	Kottayam   - chingavanam, kumarakom, mannanam, manarcadu, pampady
+35	Amritsar  - chabba, bandala, jethuwal, khasa, majitha, abdal
+36	Meerut  -  jani, khiwai, daurala, mawana, puthi, phalauda, modinagar, 
+37	Guwahati  -  khetri, bezera, rangia, 
+38	Chandigarh  - zirakpur, kharar, kurali, tangori, manakpur, kalka, kasauli, abhipur, barawal, 
+39	Jodhpur  -  banar, sangariya, boranada, salawas, keru, narwa, dajjar
+42	Bareilly  - faridpur, athana, visharatganj, gainee, kalapur, devchara
+46	Guntur  - tadikonda, namburu, chebrolu, perecherla, tenali
+49	Trivandrum  - kovalam, poovar, attingal, varkala, kallar, kollayil 
+51	Panipat  -  samalkha, diwana, naultha, madlauda, munak, gharaunda,
+52	Rajkot  -  shapar, tramba, khirasra, sarpadar, gavridad, bhadla, sardhar
+53	Zirakpur  - dera bassi, tangori, manakpur, banur, lalru, barawal
+56	Jalandhar -  lambra, kala sanghian, kartarpur, ranipur, nakodar, adampur, khiala
+57	Thrissur  - arimbur, parappur, anjur, nadathara, pudukad, marottichal
+58	Ajmer  - bir, saradhana, pushkar, thanawala, dilwari
+59	Nellore  -  indukurpet, mypadu, kasumuru, kodavaluru, allur
+60	Tiruchirappalli  -  gundur, thuvakudi, nachelura, mandaiyyur
+62	Salem  -  mallur, yercaud, omalur, kakapalayam, sankari
+65	Alwar  -  umren, dadhikar, chikani, ramgarh, mala khera, um
+66	Durgapur  -  gopalpur, ajodhya, raniganj, panagarh, mankar, barjora,
+69	Calicut  -  karipur, areek, kattangal, koduvally, chemancheri
+70	Sikar  -  dujod, kasli, harsh, shishu, katrathal, nani, dadiya
+
+-15	Nagpur  -  jamtha, kamptee, butibori, kalameshwar
+-16	Nasik  -  ojhar, deolali, anjaneri, ladachi, trimbak
+-21	Dehradun  -  doiwala, dwara, thano, mussorie, mohand
+-28	Hubli  -  hebsur, dharwad, nigadi, dhumvada, kundgol, varur
+-30	Patna  -  maner, bihta, naubatpur, fatehpur, sonepur, sarai, hilalpur
+-40	Gwalior  -  panihar, bamor, ghirongi, ratwai, nurabad
+-41	Kota  -  jawahar sagar, borabas, bargaon, talera, kasar, kethun
+-43	Jabalpur  -  Bhedaghat, udna, panagar, barela, dhamki, padwar
+-44	Kolhapur  -  shiroli, kagal, kalambe turf thane
+-45	Aurangabad  -  daulatabad, karodi, limbe jalgaon, pipri, karmad
+-47	Allahabad  -  saray ankil, karari, kandi, soraon, haandia, jari bazar
+-48	Varanasi  -  mughalsarai, prarikala, baragaon, ramnagar
+-50	Ranchi  -  nagri, bero, ormanjhi, rampur, hardag, lotang
+-54	Madurai  -  tirumangalam, thiruparankundram, silaiman, tiruppuvanam, narasingam
+-55	Belgaum  -  shinoli, kinaye, yellur, desur, kadoli, marihal
+-61	Siliguri  -  phansidewa, bagdogra, ambari, 
+-63	Raipur  -  bhilai, charoda, hatband, jheet, sankara, dharsiwa, siliyari, arang
+-64	Bhubaneswar  -  khordha, jatni, motari, uttara, adaspur, niali, urali, cuttack
+-67	Purnia  -  harda, makranda, utna, chikni
+-68	Muzaffarpur  -  turki, kurhani, khalilpur, kanti, majhauli,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
